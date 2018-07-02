@@ -27,7 +27,6 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #333;
 }
 
 body {
@@ -85,6 +84,29 @@ body {
   }
 }
 
+/*
+ * Full-width bg split
+ */
+.fullwidth-container {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  z-index: -1;
+}
+
+.fullwidth-container .half {
+  flex: 1;
+  background-size: cover;
+}
+
+.fullwidth-container .left {
+  background-image: url('/img/bg-filla.jpg');
+}
+
+.fullwidth-container .right {
+  background-image: url('/img/bg-fulla.jpg');
+}
 
 /*
  * Cover
