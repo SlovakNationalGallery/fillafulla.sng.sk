@@ -9,17 +9,6 @@ a:hover {
   color: #fff;
 }
 
-/* Custom default button */
-.btn-secondary,
-.btn-secondary:hover,
-.btn-secondary:focus {
-  color: #333;
-  text-shadow: none; /* Prevent inheritance from `body` */
-  background-color: #fff;
-  border: .05rem solid #fff;
-}
-
-
 /*
  * Base structure
  */
@@ -33,24 +22,41 @@ body {
   display: -ms-flexbox;
   display: flex;
   color: #fff;
-  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
   box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
-}
-
-.cover-container {
-  max-width: 42em;
 }
 
 
 /*
  * Header
  */
+.header-containter {
+  position: absolute;
+  padding: 2rem 3rem;
+}
+
 .masthead {
   margin-bottom: 2rem;
 }
 
 .masthead-brand {
   margin-bottom: 0;
+  font-size: 2rem;
+  text-align: left;
+  line-height: 100%;
+}
+
+@media (min-width: 576px) {
+  .masthead-brand {
+    font-size: 3rem;
+    line-height: 110%;
+  }
+}
+
+@media (min-width: 992px) {
+  .masthead-brand {
+    font-size: 4rem;
+    line-height: 120%;
+  }
 }
 
 .nav-masthead .nav-link {
@@ -58,41 +64,63 @@ body {
   font-weight: 700;
   color: rgba(255, 255, 255, .5);
   background-color: transparent;
-  border-bottom: .25rem solid transparent;
-}
-
-.nav-masthead .nav-link:hover,
-.nav-masthead .nav-link:focus {
-  border-bottom-color: rgba(255, 255, 255, .25);
 }
 
 .nav-masthead .nav-link + .nav-link {
   margin-left: 1rem;
 }
 
-.nav-masthead .active {
-  color: #fff;
-  border-bottom-color: #fff;
+nav .logo-sng {
+  width: 30px;
+}
+@media (min-width: 768px) {
+  nav .logo-sng {
+    width: 40px;
+  }
 }
 
-@media (min-width: 48em) {
-  .masthead-brand {
-    float: left;
-  }
-  .nav-masthead {
-    float: right;
-  }
+.masthead-brand {
+  float: left;
+}
+.nav-masthead {
+  float: right;
 }
 
 /*
  * Full-width bg split
  */
 .fullwidth-container {
-  position: fixed;
+  position: absolute;
   width: 100%;
-  height: 100%;
   display: flex;
   z-index: -1;
+  height: 50vh;
+  margin-top: 5vh;
+}
+
+@media (min-width: 576px) {
+  .fullwidth-container {
+    height: 60vh;
+  }
+}
+
+@media (min-width: 768px) {
+  .fullwidth-container {
+    height: 70vh;
+  }
+}
+
+@media (min-width: 992px) {
+  .fullwidth-container {
+    height: 80vh;
+  }
+}
+
+@media (min-width: 1200px) {
+  .fullwidth-container {
+    height: 90vh;
+    margin-top: 0;
+  }
 }
 
 .fullwidth-container .half {
@@ -100,29 +128,118 @@ body {
   background-size: cover;
 }
 
+.fullwidth-container .spacer {
+  width: 10%;
+}
+
 .fullwidth-container .left {
   background-image: url('/img/bg-filla.jpg');
+  box-shadow: inset -10px 0px 30px 10px rgba(0, 0, 0, 1);
+  transform: translateY(4rem);
 }
 
 .fullwidth-container .right {
   background-image: url('/img/bg-fulla.jpg');
+  box-shadow: inset 10px 0px 30px 10px rgba(0, 0, 0, 1);
+}
+/* increase shadows on wider screens */
+@media (min-width: 768px) {
+  .fullwidth-container .left {
+    box-shadow: inset -20px 0px 40px 25px rgba(0, 0, 0, 1);
+  }
+  .fullwidth-container .right {
+    box-shadow: inset 20px 0px 40px 25px rgba(0, 0, 0, 1);
+  }
 }
 
 /*
  * Cover
  */
-.cover {
-  padding: 0 1.5rem;
+
+.cover-container {
+  margin-top: 7rem;
+  max-width: 38rem;
 }
-.cover .btn-lg {
-  padding: .75rem 1.25rem;
-  font-weight: 700;
+.cover-heading {
+  font-size: 1.5rem;
+}
+@media (min-width: 576px) {
+  .cover-container {
+    margin-top: 1rem;
+  }
+  .cover-heading {
+    font-size: 1.75rem;
+  }
+}
+@media (min-width: 768px) {
+  .cover-container {
+    margin-top: 3rem;
+  }
+  .cover-heading {
+    font-size: 2.25rem;
+  }
+}
+@media (min-width: 992px) {
+  .cover-container {
+    margin-top: 5rem;
+  }
+  .cover-heading {
+    font-size: 3rem;
+  }
+}
+
+/*
+ * Cross Logo Made in Slovakia
+ */
+
+.cross-logo {
+  height: 16rem;
+  font-size: 1.25rem;
+}
+@media (min-width: 576px) {
+  .cross-logo {
+    font-size: 1.4rem;
+  }
+}
+.cross-logo span {
+  position: absolute;
+  white-space: nowrap;
+  font-style: italic;
+}
+.cross-logo span.rotate-cw {
+  transform: translateX(-50%) translateY(8rem) rotate(45deg);  
+}
+.cross-logo span.rotate-ccw {
+  transform: translateX(-50%) translateY(8rem) rotate(-45deg);  
+}
+
+.cta {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.share-container p {
+  font-weight: bold;
+}
+.share-container .social-links i {
+  margin: 0 10px;
+  display: inline-block;
 }
 
 
 /*
  * Footer
  */
-.mastfoot {
-  color: rgba(255, 255, 255, .5);
+
+
+/*
+ * Atomic Utilities
+ */
+
+.bg-black {
+  background-color: #000; 
+}
+
+.text-shadow {
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
 }
