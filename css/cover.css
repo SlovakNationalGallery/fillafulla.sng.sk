@@ -23,6 +23,8 @@ body {
   display: flex;
   color: #fff;
   box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+
+  font-family: HopeSans, sans-serif;
 }
 
 
@@ -207,10 +209,10 @@ nav .logo-sng {
   font-style: italic;
 }
 .cross-logo span.rotate-cw {
-  transform: translateX(-50%) translateY(8rem) rotate(45deg);  
+  transform: translateX(-50%) translateY(8rem) rotate(45deg);
 }
 .cross-logo span.rotate-ccw {
-  transform: translateX(-50%) translateY(8rem) rotate(-45deg);  
+  transform: translateX(-50%) translateY(8rem) rotate(-45deg);
 }
 
 .cta {
@@ -237,7 +239,7 @@ nav .logo-sng {
  */
 
 .bg-black {
-  background-color: #000; 
+  background-color: #000;
 }
 
 .text-shadow {

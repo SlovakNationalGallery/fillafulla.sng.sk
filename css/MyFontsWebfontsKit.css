@@ -1,0 +1,50 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3604645, 2018-07-04T03:25:16-0400
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: HopeSans-Italic by Monotype
+ * URL: https://www.myfonts.com/fonts/mti/hope-sans/italic/
+ *
+ * Webfont: HopeSans-Regular by Monotype
+ * URL: https://www.myfonts.com/fonts/mti/hope-sans/regular/
+ *
+ * Webfont: HopeSans-Bold by Monotype
+ * URL: https://www.myfonts.com/fonts/mti/hope-sans/bold/
+ *
+ *
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3604645
+ * Licensed pageviews: 250,000
+ * Webfonts copyright: Copyright &#x00A9; 2018 Monotype Imaging Inc. All rights reserved.
+ *
+ * © 2018 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3700a5");
+
+
+@font-face {
+    font-family: 'HopeSans';src: url('webfonts/3700A5_1_0.eot');src: url('webfonts/3700A5_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3700A5_1_0.woff2') format('woff2'),url('webfonts/3700A5_1_0.woff') format('woff'),url('webfonts/3700A5_1_0.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HopeSans';src: url('webfonts/3700A5_2_0.eot');src: url('webfonts/3700A5_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3700A5_2_0.woff2') format('woff2'),url('webfonts/3700A5_2_0.woff') format('woff'),url('webfonts/3700A5_2_0.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HopeSans';src: url('webfonts/3700A5_0_0.eot');src: url('webfonts/3700A5_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3700A5_0_0.woff2') format('woff2'),url('webfonts/3700A5_0_0.woff') format('woff'),url('webfonts/3700A5_0_0.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
