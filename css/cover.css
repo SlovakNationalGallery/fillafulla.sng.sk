@@ -42,24 +42,21 @@ body {
   margin-bottom: 2rem;
 }
 
-.masthead-brand {
+img.masthead-brand {
   margin-bottom: 0;
-  font-size: 2rem;
-  text-align: left;
-  line-height: 100%;
+  margin-left: 0;
+  width: 85px;
 }
 
 @media (min-width: 576px) {
-  .masthead-brand {
-    font-size: 3rem;
-    line-height: 110%;
+  img.masthead-brand {
+      width: 150px;
   }
 }
 
 @media (min-width: 992px) {
-  .masthead-brand {
-    font-size: 4rem;
-    line-height: 120%;
+  img.masthead-brand {
+    width: 200px;
   }
 }
 
@@ -161,34 +158,30 @@ nav .logo-sng {
  */
 
 .cover-container {
-  margin-top: 7rem;
   max-width: 38rem;
 }
 .cover-heading {
   font-size: 1.5rem;
+  text-align: left;
+  margin-left: 100px;
 }
+.cover-heading svg { width: 1.5rem; fill: #fff; }
 @media (min-width: 576px) {
-  .cover-container {
-    margin-top: 1rem;
-  }
   .cover-heading {
     font-size: 1.75rem;
+    text-align: center;
+    margin: auto;
   }
+  .cover-heading svg { width: 1.75rem; }
 }
 @media (min-width: 768px) {
-  .cover-container {
-    margin-top: 3rem;
-  }
   .cover-heading {
-    font-size: 2.25rem;
+    /*font-size: 2.0rem;*/
   }
 }
 @media (min-width: 992px) {
-  .cover-container {
-    margin-top: 5rem;
-  }
   .cover-heading {
-    font-size: 3rem;
+    font-size: 2rem;
   }
 }
 
@@ -199,16 +192,20 @@ nav .logo-sng {
 .cross-logo {
   height: 16rem;
   font-size: 1.25rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+
 }
 @media (min-width: 576px) {
   .cross-logo {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
     font-size: 1.4rem;
   }
 }
 .cross-logo span {
   position: absolute;
   white-space: nowrap;
-  font-style: italic;
 }
 .cross-logo span.rotate-cw {
   transform: translateX(-50%) translateY(8rem) rotate(45deg);
