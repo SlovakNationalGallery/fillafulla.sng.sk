@@ -17,6 +17,10 @@ $(document).ready(function() {
         return false;
     });
 
+    $(window).on('showpassage:after', function(event){
+        disableLinks();
+    });
+
     // remove share container
     $( ".share-container" ).remove();
 
@@ -52,9 +56,5 @@ $(document).ready(function() {
       disableLinks();
     }
   }
-
-  $(window).on('showpassage:after', function(event){
-      disableLinks();
-  });
 
 });
