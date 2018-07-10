@@ -12,4 +12,10 @@ The landing page uses:
 
 ### Twine powered Chat app
 
-The project will include a static `/chat.html` page, exported from [Twine](https://twinery.org/), as well as the source content of the chat 'Story' in `.twee` format, from which `/chat.html` can be compiled. To render the Filla Fulla story in the shape and style of a chat app, we use a custom 'Story Format' called 'Trialogue', which is maintained in [it's own repo](https://github.com/phivk/trialogue).
+The project includes a static `/chat/index.html` page, exported from [Twine](https://twinery.org/), as well as the source content of the chat 'Story' in `.twee` format, from which `/chat/index.html` can be compiled. To render the Filla Fulla story in the shape and style of a chat app, we use a custom 'Story Format' called 'Trialogue', which is maintained in [it's own repo](https://github.com/phivk/trialogue).
+
+When updating the compiled story at `/chat/index.html`, the following snippets need to be inserted into the HTML for the page to function properly:
+
+- Google Analytics script at the end of `<head>`
+- top part of `<head>`, including meta tags, favicons and font
+- `<script>` tags at the end of `<body>`
