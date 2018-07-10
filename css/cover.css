@@ -51,20 +51,21 @@ body {
   margin-bottom: 2rem;
 }
 
-img.masthead-brand {
+svg.masthead-brand {
   margin-bottom: 0;
   margin-left: 0;
   width: 85px;
+  fill: #fff;
 }
 
 @media (min-width: 576px) {
-  img.masthead-brand {
+  svg.masthead-brand {
       width: 150px;
   }
 }
 
 @media (min-width: 992px) {
-  img.masthead-brand {
+  svg.masthead-brand {
     width: 200px;
   }
 }
