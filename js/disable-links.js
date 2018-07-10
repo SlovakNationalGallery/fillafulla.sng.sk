@@ -38,7 +38,7 @@ $(document).ready(function() {
     }
 
     // append disabled css style
-    var disabled_style = 'a.disabled { cursor: not-allowed; opacity: 0.5; color: currentColor; display: inline-block; pointer-events: none; text-decoration: none; } .chat-panel a.disabled { color: black;  opacity: 1.0; }';
+    var disabled_style = 'a.disabled { cursor: not-allowed; opacity: 0.5; color: currentColor; display: inline-block; pointer-events: none; text-decoration: none; } .chat-panel a.disabled { color: black;  opacity: 1.0; border: none !important;}';
     $('head').append('<style type="text/css">'+disabled_style+'</style>');
 
     return true;
@@ -53,8 +53,7 @@ $(document).ready(function() {
     }
   }
 
-  $(window).on('showpassage', function(event){
-      // console.log('disableLinks');
+  $(window).on('showpassage:after', function(event){
       disableLinks();
   });
 
