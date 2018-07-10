@@ -27,7 +27,6 @@ body {
   flex-direction: column;
 
   color: #fff;
-  box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
 
   font-family: HopeSans, sans-serif;
 
@@ -262,13 +261,13 @@ nav .logo-sng {
   text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
 }
 
-.footer-links a {
+.footer-links a, .about a {
   margin-right: 10px;
   border-bottom: 2px solid rgba(253,211,197, 0.3);
   margin-bottom: 10px;
 }
 
-.footer-links a:hover {
+.footer-links a:hover, .about a:hover {
   text-decoration: none;
   border-bottom: 2px solid rgba(253,211,197, 1.0);
 }
@@ -313,3 +312,50 @@ nav .logo-sng {
     opacity: 1;
   }
 }
+
+/*==========================================================================
+ABOUT
+========================================================================== */
+
+.about {
+  background-color: #222;
+  padding: 30px 50px;
+  box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+}
+
+.about h3 {
+  margin: 3rem auto 1.5rem;
+}
+
+.about p {
+  color: #ccc;
+}
+
+.about-head {
+  margin: 100px auto 30px;
+}
+
+.about-head h2 {
+  font-size: 1.2rem;
+}
+.about-head h1 {
+  font-size: 3.5rem;
+}
+/*==========================================================================
+PRELOADER
+========================================================================== */
+.preloader {position: fixed;width: 100%;z-index: 99999999999999;background-color: #000;height: 100%; }
+.intro-type1{position: fixed;top: 50%; left: 50%; text-align:center; margin-top: -15px;margin-left: -15px; height:30px; width:30px;}
+
+.animated {
+  animation: pulsate 1s ease-out;
+  animation-iteration-count: infinite;
+  opacity: 0.0;
+}
+
+@-webkit-keyframes pulsate {
+    0% {-webkit-transform: scale(0.1, 0.1); opacity: 0.0;}
+    50% {opacity: 1.0;}
+    100% {-webkit-transform: scale(1.2, 1.2); opacity: 0.0;}
+}
+

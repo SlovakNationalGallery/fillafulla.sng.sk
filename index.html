@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="sk">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -36,7 +36,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
 
     <!-- Custom styles for this template -->
-    <link rel="stylesheet" type="text/css" href="css/cover.css?v=3">
+    <link rel="stylesheet" type="text/css" href="css/cover.css?v=4">
 
     <!-- GA tracking -->
     <script>
@@ -52,6 +52,14 @@
   </head>
 
   <body class="text-center bg-black">
+
+    <!-- LOADING START -->
+    <div class="preloader">
+        <div class="intro-type1 animated spin">
+            <img src="/img/logo-sng.svg" height="30" width="30" alt="preloader">
+        </div>
+    </div>
+    <!-- LOADING START -->
 
     <div class="container-fluid header-containter p-2 py-md-3 px-md-4">
       <header class="masthead mb-auto">
@@ -116,7 +124,7 @@
           <p class="d-flex justify-content-start justify-content-sm-between flex-wrap footer-links text-left">
             <!-- <a href="https://www.sng.sk/" target="_blank">Web SNG</a> -->
             <!-- <a href="https://www.facebook.com/SlovenskaNarodnaGaleria" target="_blank">Facebook SNG</a> -->
-            <a href="#">O aplikácii</a>
+            <a href="/about.html">O aplikácii</a>
             <a href="https://www.sng.sk/sk/vystavy/1502_filla-fulla-osud-umelce-osud-umelca" target="_blank">O výstave</a>
             <a href="https://www.webumenia.sk/kolekcia/155" target="_blank">Web umenia</a>
             <!-- <a href="mailto:lab@sng.sk" target="_blank">Kontakt</a> -->
@@ -145,6 +153,14 @@
     <script src="/js/vendor/js.cookie.min.js"></script>
     <script src="/js/disable-links.js"></script>
     <script src="/js/inline-svg.js"></script>
+
+    <!-- Pre-Loader -->
+    <script type="text/javascript">
+        $(window).bind("load", function() {
+           $('body').css('overflow', 'auto');
+           $('.preloader').delay(50).fadeOut('slow');
+        });
+    </script>
 
   </body>
 </html>
