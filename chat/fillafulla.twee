@@ -274,17 +274,25 @@ Nikdy sme zbytočne nehovorili a azda preto sme si tak dobre rozumeli. Už vtedy
 [[Mali ste nejaké umelecké vzory?->LF-013]]
 
 :: LF-013 [speaker-fulla]
-Moje vzory? Na túto otázku ťažko odpovedať. Bol to celý rad moderného francúzskeho umenia, mená ako Braque, Matisse, Picasso, Rouault... všetky mená, ktoré hlásali absolútnu tvorivú slobodu. Inšpirovali ma v istú dobu aj Kandinskij, Klee či Chagall, avšak pri mnohom z toho, čo malo na môj umelecký vývoj vplyv, nebol konkrétny autor prvoradý. Mám na mysli aj stredoveké umenie či výtvarný prejav detí.
+Moje vzory? Na túto otázku ťažko odpovedať. Bol to celý rad moderného francúzskeho umenia, mená ako Braque, Matisse, Picasso, Rouault... všetky mená, ktoré hlásali absolútnu tvorivú slobodu. Inšpirovali ma v istú dobu aj Kandinskij, Klee či Chagall, avšak pri mnohom z toho, čo malo na môj umelecký vývoj vplyv, nebol konkrétny autor prvoradý. Mám na mysli napríklad stredoveké umenie či výtvarný prejav detí.
 
 <%
 story.showDelayed("LF-IMG-004");
 %>
 
 :: LF-013B [speaker-fulla]
-Ťažko povedať. Vždy som sa snažil voľne kombinovať rozmanité vplyvy. V skorších rokoch mi imponovali najmä predstavitelia moderného francúzskeho umenia, ktorí hlásali absolútnu tvorivú slobodu - mená ako Braque, Matisse, Picasso, Rouault... Taktiež ma inšpiroval Kandinskij, Klee, Chagall a postupne som svoju paletu obohacoval o poznanie ikonopisnej maľby, stredovekého umenia a v neposlednom rade aj nášho slovenského folklóru a jeho výtvarných prejavov.
+Ťažko povedať. Vždy som sa snažil voľne kombinovať rozmanité vplyvy. V skorších rokoch mi imponovali najmä predstavitelia moderného francúzskeho umenia, ktorí hlásali absolútnu tvorivú slobodu - mená ako Braque, Matisse, Picasso, Rouault...
+
+<%
+story.showDelayed("LF-013C");
+%>
+
+:: LF-013C [speaker-fulla]
+Taktiež ma inšpirovali Kandinskij, Klee či Chagall a postupne som svoju paletu obohacoval o poznanie ikonopisnej maľby, stredovekého umenia a v neposlednom rade aj nášho slovenského folklóru a jeho výtvarných prejavov.
 
 <%
 story.showDelayed("LF-IMG-004");
+%>
 
 :: LF-IMG-004 [speaker-fulla]
 <figure>
