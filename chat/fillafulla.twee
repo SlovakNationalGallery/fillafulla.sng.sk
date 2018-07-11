@@ -274,7 +274,7 @@ Nikdy sme zbytočne nehovorili a azda preto sme si tak dobre rozumeli. Už vtedy
 [[Mali ste nejaké umelecké vzory?->LF-013]]
 
 :: LF-013 [speaker-fulla]
-Moje vzory? Na túto otázku ťažko odpovedať. Bol to celý rad moderného francúzskeho umenia, mená ako Braque, Matisse, Picasso, Rouault... všetky mená, ktoré hlásali absolútnu tvorivú slobodu. Inšpirovali ma v istú dobu aj Kandinskij, Klee či Chagall, avšak pri mnohom z toho, čo malo na môj umelecký vývoj vplyv, nebol konkrétny autor prvoradý. Mám na mysli aj stredoveké umenie, či výtvarný prejav detí.
+Moje vzory? Na túto otázku ťažko odpovedať. Bol to celý rad moderného francúzskeho umenia, mená ako Braque, Matisse, Picasso, Rouault... všetky mená, ktoré hlásali absolútnu tvorivú slobodu. Inšpirovali ma v istú dobu aj Kandinskij, Klee či Chagall, avšak pri mnohom z toho, čo malo na môj umelecký vývoj vplyv, nebol konkrétny autor prvoradý. Mám na mysli aj stredoveké umenie či výtvarný prejav detí.
 
 <%
 story.showDelayed("LF-IMG-004");
@@ -1619,7 +1619,7 @@ Ne. Nebylo nám souzeno. Ale měli jsme naši boxerku Evičku.
 Mal som veľa detí, aj keď všetky boli cudzie.
 
 [[Ako to myslíte?->LF-051]]
-[[A čo ženy v umení?->EF-053]]
+[[Poďme ďalej k obdobiu po vojne.->LF-060]]
 
 :: LF-051 [speaker-fulla]
 Venoval som sa deťom a mládeži intenzívne a s úprimnou radosťou celý život. Kreslil, maľoval i písal, ilustroval detské knihy, spolupracoval som aj pri tvorbe detského časopisu Slniečko a Úsmev...
@@ -1695,7 +1695,7 @@ Rozprávkové knihy ma sprevádzali celý život... keď som chodieval vzdychať
 Obrázkové slovenské povesti, vydané v roku 1925, neskôr napríklad Veršíky pre maličkých od Ľudmily Podjavorinskej, Soľ nad zlato,  O dvanástich mesiačikoch... zoznam je naozaj dlhý. Najdôležitejšia však bola kniha Slovenských rozprávok.
 
 [[Prečo je taká dôležitá?->LF-057]]
-[[Vráťme sa ešte k ženám v umení.->EF-053]]
+[[Poďme ďalej k obdobiu po vojne.->LF-060]]
 
 :: LF-057 [speaker-fulla]
 Až pri ilustrovaní Slovenských rozprávok vo mne dozrelo poznanie, že ilustrácia je plnohodnotná a rovnocenná inej maliarskej práci a môže sa vyrovnať obrazu... a práve tieto ilustrácie neskôr ovplyvnili aj iných tvorcov.
@@ -2398,6 +2398,10 @@ story.showDelayed("LF-081");
 
 :: LF-081 [speaker-fulla]
 Len pre istotu: říjen je október. Uvidíme sa tam!
+
+<%
+story.showDelayed("LF-END");
+%>
 
 :: LF-END [speaker-fulla]
 Viac informácií o výstave nájdeš tu:
