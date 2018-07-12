@@ -864,7 +864,7 @@ Proti útokům Hilera na demokracii v Evropě jsem protestoval svou tvorbou. Boj
 Má tvorba v 30. letech zhodnocovala skušenosti se surrealismem a také kritizovala nacistické násilí a útoky na demokracii. Hned v první den války, 1. září 1939, mě zatklo Gestapo. Odvedli mě do Dachau a pak do Buchenwaldu, kde jsem zůstal do konce války.
 
 [[Povedzte mi viac o živote v Buchenwalde.->EF-IMG-018C]]
-[[Aký bol koniec vojny?->EF-IMG-015]]
+[[Aký bol koniec vojny?->EF-IMG-019]]
 
 :: LF-023 [speaker-fulla]
 Do Bratislavy som prišiel na pozvanie Josefa Vydru. 
@@ -1382,7 +1382,7 @@ story.showDelayed("EF-043");
 Statě o umění a také filozofické texty o svobodě.... jsou výplodem  probdělých 2000 krutých nocí, kdy místo spánku a snů v polobdělém a polosnovém přemítání vybavovaly se mi nejspletitější otázky... psal jsem to abych nezahynul. A snad i čtení těchto kapitol může dnes i zítra míti stejný důvod a účinek.
 
 [[Ako to celé dopadlo?->EF-IMG-019]]
-[[Aký osud postihol Fullu v tomto období?->LF-041]]
+[[Aký osud postihol Fullu v tomto období?->LF-041B]]
 
 :: EF-044B [speaker-filla]
 Přežil jsem jen tak tak, i to s jizvami na těle i duši. Byla v tom jistě i velká dávka štěstí. Josef Čapek takové štěstí neměl, zemřel na tyfus jenom krátce před osvobozením.
@@ -1400,7 +1400,7 @@ story.showDelayed("EF-044C");
 </figure>
 
 [[Ako si pamätáte návrat domov?->EF-IMG-019]]
-[[Aký osud postihol Fullu v tomto období?->LF-041]]
+[[Aký osud postihol Fullu v tomto období?->LF-041B]]
 
 :: LF-041 [speaker-fulla]
 Boli to roky trpkosti, náhle a predčasne zomrel môj dlhoročný priateľ Mikuláš. Po nútenom odchode profesora Vydru a iných českých kolegov som nakrátko prevzal riaditeľskú stoličku ŠUR-ky, črtala sa aj myšlienka založenia prvej Vysokej školy výtvarných umení... 
@@ -1408,6 +1408,12 @@ Boli to roky trpkosti, náhle a predčasne zomrel môj dlhoročný priateľ Miku
 <%
 story.showDelayed("LF-IMG-018");
 %>
+
+:: LF-041B [speaker-fulla]
+Smutné roky. Po predčasnej smrti môjho priateľa Mikuláša Galandu, nútenom odchode profesora Vydru a neúspešnom pokuse zriadiť Akadémiu výtvarných umení som sa stiahol do ústrania a presťahoval do Martina. V tomto období som viacej ilustroval a vytvoril som aj niekoľko malieb a grafík s náboženskou tematikou. 
+
+[[Pošlite nejaký príklad.->LF-IMG-019]]
+[[Tešilo vás niečo v tomto ťažkom období?->EF-048]]
 
 :: LF-IMG-018 [speaker-fulla]
 
@@ -1425,9 +1431,8 @@ story.showDelayed("LF-042");
 :: LF-042 [speaker-fulla]
 V tomto období vytvoril som aj niekoľko malieb a grafík s náboženskou tematikou.
 
-<%
-story.showDelayed("LF-IMG-019");
-%>
+[[Pošlite nejaký príklad.->LF-IMG-019]]
+[[Tešilo vás niečo v tomto ťažkom období?->EF-048]]
 
 :: LF-IMG-019 [speaker-fulla]
 <figure>
@@ -1464,7 +1469,7 @@ story.showDelayed("LF-IMG-020");
 </figure>
 
 [[Tieto diela sú úplne iné. Prečo?->LF-044]]
-[[Vráťme sa ešte k pánovi Fillovi počas rokov vojny.->EF-035C]]
+[[Tešilo vás niečo v tomto ťažkom období?->EF-048]]
 
 :: LF-044 [speaker-fulla]
 Pre moje obrazy nebolo v novom režime miesto. Preč boli roky s Mikulášom a opustil som aj farboplochy a líniotvary... prišla tvorivá kríza... asi aj preto zrodili sa tieto obrazy, ovplyvnené stredovekým umením...
