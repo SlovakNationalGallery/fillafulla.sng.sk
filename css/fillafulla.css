@@ -17,6 +17,55 @@ body {
   font-family: HopeSans;
 }
 
+/* 
+ * counter extra margin-right added by MagnificPopup conflicting w fixed elements
+ * https://github.com/dimsemenov/Magnific-Popup/issues/125
+ */
+html {
+  margin-right: 0 !important;
+  overflow-y: auto !important;
+}
+
+.btn-danger {
+  background-color: #417505;
+  border-color: #417505;
+}
+.btn-danger:hover {
+  background-color: #396804;
+  border-color: #325C03;
+}
+
+/* Links */
+.chat-passage a,
+.chat-passage a:focus,
+.chat-passage a:hover,
+.mfp-content  a,
+.mfp-content  a:focus,
+.mfp-content  a:hover {
+  text-decoration: none;
+  -webkit-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+}
+.chat-passage a,
+.mfp-content  a {
+  border-bottom: 2px solid rgba(65,117,5, 0.3);
+}
+.chat-passage a:hover,
+.mfp-content  a:hover {
+  border-bottom: 2px solid rgba(65,117,5, 1.0);
+}
+.chat-passage a,
+.chat-passage a:focus,
+.chat-passage a:hover {
+  color: #000;
+}
+.mfp-content  a,
+.mfp-content  a:focus,
+.mfp-content  a:hover {
+  color: #FFF;
+}
+
 /* Passage Avatars */
 
 .chat-passage-wrapper[data-speaker='ty']:after {
@@ -89,4 +138,71 @@ div.left-sidebar .fillafullachat {
 div.right-sidebar .share-container .social-links i {
   margin-right: 10px;
   display: inline-block;
+}
+
+/*
+ * Modal (http://getbootstrap.com/docs/4.1/components/modal/)
+ */
+
+.modal .btn-link,
+.modal .btn-link:focus,
+.modal .btn-link:hover {
+  color: #000;
+  text-decoration: none;
+  -webkit-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+}
+.modal .btn-link {
+  border-bottom: 2px solid rgba(65,117,5, 0.3);
+}
+.modal .btn-link:hover {
+  border-bottom: 2px solid rgba(65,117,5, 1.0);
+}
+
+/*
+ * Magnific Popup
+ */
+
+/* Animation (http://dimsemenov.com/plugins/magnific-popup/documentation.html#animation) */
+/* overlay at start */
+.mfp-fade.mfp-bg {
+  opacity: 0;
+
+  -webkit-transition: all 0.15s ease-out;
+  -moz-transition: all 0.15s ease-out;
+  transition: all 0.15s ease-out;
+}
+/* overlay animate in */
+.mfp-fade.mfp-bg.mfp-ready {
+  opacity: 0.8;
+}
+/* overlay animate out */
+.mfp-fade.mfp-bg.mfp-removing {
+  opacity: 0;
+}
+
+/* content at start */
+.mfp-fade.mfp-wrap .mfp-content {
+  opacity: 0;
+
+  -webkit-transition: all 0.15s ease-out;
+  -moz-transition: all 0.15s ease-out;
+  transition: all 0.15s ease-out;
+}
+/* content animate it */
+.mfp-fade.mfp-wrap.mfp-ready .mfp-content {
+  opacity: 1;
+}
+/* content animate out */
+.mfp-fade.mfp-wrap.mfp-removing .mfp-content {
+  opacity: 0;
+}
+
+/* disable zoom out cursor */
+.mfp-zoom-out-cur {
+cursor: pointer;
+}
+.mfp-zoom-out-cur .mfp-image-holder .mfp-close {
+cursor: pointer;
 }
