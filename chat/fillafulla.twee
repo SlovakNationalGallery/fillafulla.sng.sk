@@ -41,7 +41,7 @@ story.showDelayed("EF-IMG-001");
 		<img src="https://www.webumenia.sk/images/diela/MG./36/CZE_MG.A_860/CZE_MG.A_860.jpeg" alt="Emil Filla - Vlastní podobizna, 1906" />
 	</a>
 	<figcaption>
-		<a href="https://www.webumenia.sk/dielo/CZE:MG.A_860" target="_blank">Emil Filla - Autoportrét, 1906, Moravská galerie, Brno</a>
+		<a href="https://www.webumenia.sk/dielo/CZE:MG.A_860" target="_blank">Emil Filla - Vlastní podobizna, 1906, Moravská galerie, Brno</a>
 	</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ story.showDelayed("LF-002");
 Pekný autoportrét.
 
 [[Z ktorého je roku?->EF-002]]
-[[Je niekym inšpirovaný?->EF-002B]]
+[[Je niekým inšpirovaný?->EF-002B]]
 
 :: EF-002 [speaker-filla]
 1906, když jsem jako mladík žil v Praze.
@@ -290,7 +290,7 @@ Nikdy sme zbytočne nehovorili a azda preto sme si tak dobre rozumeli. Už vtedy
 [[Aké boli vaše umelecké vzory?->LF-013]]
 
 :: LF-013 [speaker-fulla]
-Moje vzory? Na túto otázku ťažko odpovedať. Bol to celý rad moderného francúzskeho umenia, mená ako Braque, Matisse, Picasso, Rouault... všetky mená, ktoré hlásali absolútnu tvorivú slobodu. Inšpirovali ma v istú dobu aj Kandinskij, Klee či Chagall, avšak pri mnohom z toho, čo malo na môj umelecký vývoj vplyv, nebol konkrétny autor prvoradý. Mám na mysli napríklad stredoveké umenie či výtvarný prejav detí.
+Moje vzory? Na túto otázku ťažko odpovedať. Bol to celý rad moderného francúzskeho umenia, mená ako Braque, Matisse, Picasso, Rouault... všetky mená, ktoré hlásali absolútnu tvorivú slobodu. Inšpirovali ma v istý čas aj Kandinskij, Klee či Chagall, avšak pri mnohom z toho, čo malo na môj umelecký vývoj vplyv, nebol konkrétny autor prvoradý. Mám na mysli napríklad stredoveké umenie či výtvarný prejav detí.
 
 [[Ako sa to prejavilo?->LF-IMG-004]]
 [[A čo vy, pán Filla?->EF-013]]
@@ -682,7 +682,7 @@ Konkrétně rok 1927.
 Já jsem v roce 1927 dosahoval první veliké úspěchy. V Německu na prohlídce Wege und Richtungen der Abstrakten Malerei in Europa jsem vystavoval spolu s mými vzory, Braquem, Picassem, Grisem, Kleem, Kandinskym... velikány, jenž byli mými vzory.
 
 <%
-story.showDelayed(" EF-026B");
+story.showDelayed("EF-026B");
 %>
 
 :: EF-026B [speaker-filla]
@@ -999,7 +999,7 @@ story.showDelayed("EF-IMG-ATL-002");
 	</a>
 		<figcaption>
 			Emil Filla s manželkou Hanou v ateliéri na Ořechovce, 1927, Galerie Benedikta Rejta, Louny
-		</figcaption>	
+		</figcaption>
 </figure>
 
 <%
@@ -1493,10 +1493,10 @@ story.showDelayed("EF-044C");
 	</figcaption>
 </figure>
 
-[[Ako si pamätáte na návrat domov?->EF-IMG-019]]
+[[Ako si spomínate na návrat domov?->EF-IMG-019]]
 
 :: LF-041 [speaker-fulla]
-Boli to roky trpkosti, náhle a predčasne zomrel môj dlhoročný priateľ Mikuláš. Po nútenom odchode profesora Vydru a iných českých kolegov som nakrátko prevzal riaditeľskú stoličku ŠUR-ky, črtala sa aj myšlienka založenia prvej Vysokej školy výtvarných umení... Tento pokus však skončil neúspešne.
+Boli to roky trpkosti, náhle a predčasne zomrel môj dlhoročný priateľ Mikuláš. Po nútenom odchode profesora Vydru a iných českých kolegov som nakrátko prevzal riaditeľskú stoličku ŠUR-ky, črtala sa aj myšlienka založenia prvej Vysokej školy výtvarných umení... Tento pokus sa však skončil neúspešne.
 
 <%
 story.showDelayed("LF-IMG-018");
@@ -1518,7 +1518,7 @@ story.showDelayed("LF-042");
 %>
 
 :: LF-042 [speaker-fulla]
-Napokon som sa stiahol do ústrania a presťahoval do Martina. Viac som ilustroval a vytvoril som aj niekoľko malieb a grafík s náboženskou tematikou.
+Napokon som sa stiahol do ústrania a presťahoval som sa do Martina. Viac som ilustroval a vytvoril som aj niekoľko malieb a grafík s náboženskou tematikou.
 
 [[Ukážte nejaký príklad.->LF-IMG-019]]
 [[Zmenila sa vaša tvorba?->LF-044B]]
@@ -2544,7 +2544,7 @@ story.showDelayed("EF-072");
 [[Ešte na záver. Aký je teda váš odkaz?->EF-073]]
 
 :: LF-078B [speaker-fulla]
-Stavba galérie trvala sedem dlhých, vyčerpávajúcich rokov. Napriek menším chybám krásy ju však považujem za viac-menej - no, s prižmúrením oka, pomerne vydarené dielo.
+Stavba galérie trvala sedem dlhých, vyčerpávajúcich rokov. Napriek menším chybám krásy ju však považujem za viac-menej, s prižmúrením oka, pomerne vydarené dielo.
 
 [[Máte nejaký odkaz na záver?->EF-073]]
 
