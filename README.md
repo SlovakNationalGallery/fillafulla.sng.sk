@@ -3,6 +3,14 @@ Filla Fulla Chat
 
 This repo hosts the source code for the browser-based chat application Filla Fulla Chat, which accompanies the exhibition [FILLA – FULLA: The Artist´s Fate](https://www.sng.sk/en/exhibitions/1502_filla-fulla-the-artists-fate).
 
+## In-gallery mode (disable external links)
+
+In the gallery space, we'd like to prevent people from following links to external websites. To access the project page with external links disabled, add the `disable-links=true` URL parameter like so:
+
+https://fillafulla.sng.sk/?disable-links=true
+
+The app sets a cookie to remember whether links should be disabled. Simply visit `https://fillafulla.sng.sk/?disable-links=false` to revoke this behaviour.
+
 ## Ingredients
 
 The landing page uses:
@@ -16,6 +24,6 @@ The project includes a static `/chat/index.html` page, exported from [Twine](htt
 
 When updating the compiled story at `/chat/index.html`, the following snippets need to be inserted into the HTML for the page to function properly:
 
-- Google Analytics script at the end of `<head>`
-- top part of `<head>`, including meta tags, favicons and font
-- `<script>` tags at the end of `<body>`
+- `head-start.html`, including meta tags, favicons and font, at the start of `<head>`
+- `head-end.html`, including stylesheets and Google Analytics, at the end of `<head>`
+- `scripts.html`, including 'disable links' and 'image popup' scripts, at the end of `<body>`
