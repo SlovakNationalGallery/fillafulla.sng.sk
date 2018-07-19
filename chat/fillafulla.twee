@@ -62,13 +62,13 @@ story.showDelayed("LF-003");
 Dalo by se říct, že je v ňem něco z Muncha, třeba z jeho <a href="https://www.edvardmunch.org/self-portrait-with-cigarette.jsp" target="_blank">portrétu s cigaretou</a>. Munchovu výstavu jsem v Praze viděl rok předtím, v 1905.
 
 [[Kde sú korene vášho záujmu o umenie?->EF-003]]
-[[Aké boli vaše študentské roky v Prahe?->EF-007]]
+[[Ako ste sa dostali do Prahy?->EF-007]]
 
 :: LF-003 [speaker-fulla]
 Vyzeráš tam už skôr ako pánko, než mladík 😉 Ale v Praze je blaze... Tiež som tam študoval, ale o dvadsať rokov neskôr ako Emil... rád na to spomínam.
 
 [[Zaujalo vás umenie už v detstve?->EF-003]]
-[[Aké boli vaše študentské roky v Prahe?->EF-007]]
+[[Ako ste sa dostali do Prahy?->EF-007]]
 
 
 :: EF-003 [speaker-filla]
@@ -138,8 +138,8 @@ story.showDelayed("LF-006");
 :: LF-006 [speaker-fulla]
 S istotou môžem povedať len toľko, že ak sme sa nestretli osobne, dielo Emila som poznal... zdieľali sme rovnaký záujem o moderné umenie... Keď sa vo výklade zjavil Fillov obraz, ktorý rezal do realizmu ako píla do suchého pňa, z výrazu našich tvárí hasli úsmevy zarytých spiatočníkov. 
 
-[[Aké boli študentské roky v Prahe?->EF-007]]
 [[Spomínate si na nejaký kľúčový moment z čias štúdií?->EF-010]]
+[[Aké boli študentské roky v Prahe?->EF-007]]
 
 :: EF-007 [speaker-filla]
 V roce 1903 jsem započal studium na Akademii výtvarných umění. 
@@ -271,14 +271,13 @@ story.showDelayed("LF-012");
 :: LF-012 [speaker-fulla]
 Nikdy sme zbytočne nehovorili a azda preto sme si tak dobre rozumeli. Už vtedy vyrovnávali sme sa so všetkými smermi, ktoré predierali sa k životu.
 
-[[Mali ste nejaké umelecké vzory?->LF-013]]
+[[Aké boli vaše umelecké vzory?->LF-013]]
 
 :: LF-013 [speaker-fulla]
 Moje vzory? Na túto otázku ťažko odpovedať. Bol to celý rad moderného francúzskeho umenia, mená ako Braque, Matisse, Picasso, Rouault... všetky mená, ktoré hlásali absolútnu tvorivú slobodu. Inšpirovali ma v istú dobu aj Kandinskij, Klee či Chagall, avšak pri mnohom z toho, čo malo na môj umelecký vývoj vplyv, nebol konkrétny autor prvoradý. Mám na mysli napríklad stredoveké umenie či výtvarný prejav detí.
 
-<%
-story.showDelayed("LF-IMG-004");
-%>
+[[Ako sa to prejavilo?->LF-IMG-004]]
+[[A čo vy, pán Filla?->EF-013]]
 
 :: LF-013B [speaker-fulla]
 Ťažko povedať. Vždy som sa snažil voľne kombinovať rozmanité vplyvy. V skorších rokoch mi imponovali najmä predstavitelia moderného francúzskeho umenia, ktorí hlásali absolútnu tvorivú slobodu - mená ako Braque, Matisse, Picasso, Rouault...
@@ -290,9 +289,8 @@ story.showDelayed("LF-013C");
 :: LF-013C [speaker-fulla]
 Taktiež ma inšpirovali Kandinskij, Klee či Chagall a postupne som svoju paletu obohacoval o poznanie ikonopisnej maľby, stredovekého umenia a v neposlednom rade aj nášho slovenského folklóru a jeho výtvarných prejavov.
 
-<%
-story.showDelayed("LF-IMG-004");
-%>
+[[Ako sa to prejavilo?->LF-IMG-004]]
+[[A čo vy, pán Filla?->EF-013]]
 
 :: LF-IMG-004 [speaker-fulla]
 <figure>
@@ -414,9 +412,9 @@ story.showDelayed("EF-IMG-008");
 
 :: EF-IMG-008 [speaker-filla]
 <figure>
-	<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Holandsky_Zapisnik.jpg" alt="Strana z holandského zápisníka Emila Fillu, 1917" />
+	<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Holandsky_zapisnik_detail.jpg" alt="Strana z holandského zápisníka Emila Fillu, 1917" />
 	<figcaption>
-		Strana z holandského zápisníka Emila Fillu, 1917
+		Detail z holandského zápisníka Emila Fillu, 1917
 	</figcaption>
 </figure>
 
@@ -428,7 +426,7 @@ story.showDelayed("EF-018B");
 Jednou jsem si v některých novinách přečetl článek o odbojové organizaci Tomáše Garrigua Masaryka - Maffii.
 
 [[Čo je to Maffia?->EF-THREAD-001]]
-[[Aké ďalšie diela ste vytvorili pod vplyvom kubizmu?->EF-IMG-010]]
+[[Aký bol váš názor na vznik Československa?->EF-020B]]
 
 :: EF-THREAD-001 [speaker-filla]
 Byla to tajná organizace československého odboje, během první světové války. Její hlavní náplní byla zpravodajská a konspirační činnost.
@@ -453,7 +451,7 @@ story.showDelayed("EF-019");
 Měla přes dve stě členů, mezi nimi politiky i umělce.
 
 [[Čo ste pre ňu robili vy?->EF-020A]]
-[[Aký bol váš postoj k vzniku Československa?->EF-020B]]
+[[Boli ste za vznik Československa?->EF-020B]]
 
 :: EF-020A [speaker-filla]
 S manželkou jsme předávali tajné informace...
@@ -462,14 +460,14 @@ S manželkou jsme předávali tajné informace...
 [[Vrátili ste sa do Prahy?->EF-020D]]
 
 :: EF-020B [speaker-filla]
-Ještě před vypuknutím války, když ji už bylo možné cítit ve vzduchu, jsme s přáteli diskutovali o tom, že válka může být jedinečnou příležitostí osvobodit se z područí monarchie. Já jsem ji ale narozdíl od některích jiných nevítal, byl jsem toho názoru, že na ni jako národ nejsme připraveni. Jakékoliv snahy pomoct snahám osamostatnit se jsem se ovšem snažil podpořit jak to jenom šlo.
+Ještě před vypuknutím války, když ji už bylo možné cítit ve vzduchu, jsme s přáteli diskutovali o tom, že válka může být jedinečnou příležitostí osvobodit se z područí monarchie. Já jsem ji ale narozdíl od některích jiných nevítal, byl jsem toho názoru, že na ni jako národ nejsme připraveni. Jakékoliv snahy pomoct snahám osamostatnit se jsem se ovšem snažil podpořit jak to jenom šlo. Samostatné Československo mělo také býti protiváhou Německa a Maďarska, které si tehdy nárokovali mnohá území, kde žili naši spoluobčané.
 
 <%
 story.showDelayed("EF-020C");
 %>
 
 :: EF-020C [speaker-filla]
-Slovensko jsem vnímal jako součást naší společné země a Slováky jako důležitou součást československého národa. Již v studentských letech jsem prošel pěšky téměř celé moravské Slovácko a velikou část Slovenska uherského. Slovenskou krajinu a tradice jsem obdivoval a věnoval ji mnoho úvah. Samostatné Československo mělo také býti protiváhou Německa a Maďarska, které si tehdy nárokovali mnohá území, kde žili naši spoluobčané. 
+Slovensko jsem vnímal jako součást naší společné země a Slováky jako důležitou součást československého národa. Již v studentských letech jsem prošel pěšky téměř celé moravské Slovácko a velikou část Slovenska uherského. Slovenskou krajinu a tradice jsem obdivoval a věnoval ji mnoho úvah. 
 
 <%
 story.showDelayed("LF-02XC");
@@ -541,13 +539,6 @@ story.showDelayed("LF-IMG-005");
 </figure>
 
 <%
-story.showDelayed("LF-015");
-%>
-
-:: LF-015 [speaker-fulla]
-Ja som sa s kubizmom konfrontoval až v roku 1930, keď som ukončil štúdium v Prahe na UMPRUM-ke. Namaľoval som niekoľko obrazov, kde som skúmal nové možnosti skladby. 
-
-<%
 story.showDelayed("LF-IMG-006");
 %>
 
@@ -560,21 +551,21 @@ story.showDelayed("LF-IMG-006");
 </figure>
 
 <%
-story.showDelayed("LF-015B");
+story.showDelayed("LF-015");
 %>
 
-:: LF-015B [speaker-fulla]
-Tieto diela môžu pre nezvyknuté oko pôsobiť komplikovane, ale snažil som sa do nich vniesť pocit tepla, radosti a optimizmu. Človek nemusí nutne rozumieť kubizmu, aby ho potešila krása farieb a tvarov.
+:: LF-015 [speaker-fulla]
+Ja som sa s kubizmom konfrontoval až v roku 1930, keď som ukončil štúdium v Prahe na UMPRUM-ke. Namaľoval som niekoľko obrazov, kde som skúmal nové možnosti kompozície. 
 
 <%
 story.showDelayed("LF-016");
 %>
 
 :: LF-016 [speaker-fulla]
-Spolu s Mikulášom sme neskôr vydali aj niečo ako manifest avantgardného umenia na Slovensku. 
+Tieto diela môžu pre nezvyknuté oko pôsobiť komplikovane, ale snažil som sa do nich vniesť pocit tepla, radosti a optimizmu. Človek nemusí nutne rozumieť kubizmu, aby ho potešila krása farieb a tvarov.
 
-[[Povedzte mi viac o manifeste.->LF-031]]
-[[Zostaňme ešte pri kubizme.->LF-017]]
+[[Považujete ich za kubistické?->LF-017]]
+[[Ako si spomínate na 20. roky?->LF-018]]
 
 :: LF-017 [speaker-fulla]
 Pravda, vo svete bol kubizmus v tom čase „za zenitom“.  Ale ja som nikdy nedbal na poučky a teórie. 
@@ -587,7 +578,7 @@ story.showDelayed("EF-023");
 Já bych ty obrazy ani nenazval kubismem, spíš kubizující. 
 
 [[Máte ešte nejaké diela z tohto obdobia?->LF-IMG-007]]
-[[Ako sa kubizmus prejavil u vás, pán Filla?->EF-024]]
+[[Aké bolo obdobie 20. rokov?->LF-018]]
 
 :: LF-IMG-007 [speaker-fulla]
 <figure>
@@ -646,6 +637,11 @@ Konkrétně rok 1927.
 :: EF-026 [speaker-filla]
 Já jsem v roce 1927 dosahoval první veliké úspěchy. V Německu na prohlídce Wege und Richtungen der Abstrakten Malerei in Europa jsem vystavoval spolu s mými vzory, Braquem, Picassem, Grisem, Kleem, Kandinskym... velikány, jenž byli mými vzory.
 
+<%
+story.showDelayed(" EF-026B");
+%>
+
+:: EF-026B [speaker-filla]
 Dostal jsem legionářský status za účást v zahraničním odboji a měl jsem za sebou první samostatnou výstavu v Brně = zhodnocení tvorby 1907 - 1924. Zvolili mně také zástupcem předsedy Spolku výtvarných umělců Mánes.
 
 <%
@@ -666,7 +662,7 @@ Na jedné z výstav ve Francii dokonce stát zakoupil naše obrazy do své galer
 [[To znie ako úspešné obdobie.->LF-020B]]
 
 :: EF-027A [speaker-filla]
-Ten můj se jmenoval Kytara na zdi, ale bohužel ho nemám poruce. Tady je ovšem jiná kytara jenom pro vás.
+Ten můj se jmenoval Kytara na zdi, ale bohužel ho nemám po ruce. Tady je ovšem jiná kytara jenom pro vás.
 
 <%
 story.showDelayed("EF-IMG-013");
@@ -741,7 +737,7 @@ story.showDelayed("LF-022");
 ...a ty, Emil, si tiež neodišiel z Paríža naprázdno, ale so zlatou medailou!
 
 [[Čo vy na to, pán Filla?->EF-029]]
-[[Povedzte mi viac o obraze Pieseň a práca.->LF-IMG-016]]
+[[Aké boli tridsiate roky v Bratislave?->LF-023]]
 
 :: EF-029 [speaker-filla]
 Já už viděl nebezpečí na obzoru.
@@ -759,7 +755,7 @@ story.showDelayed("EF-IMG-014");
 </figure>
 
 [[Aké nebezpečenstvo?->EF-030]]
-[[Aké boli tridsiate roky v Bratislave, pán Fulla?->LF-023]]
+[[Ako ste sa k nemu postavili?->EF-031]]
 
 :: EF-030 [speaker-filla]
 Jako člen odboje počas první světové války proti Nemcům jsem vědel své... demokracie a svoboda se dostaly do ohrožení s nástupem Adolfa Hitlera k moci v roce 1933...
@@ -790,7 +786,7 @@ story.showDelayed("EF-031");
 Nebyl jsem už žádný mladík a věděl jsem, že musíme něco udělat, že musíme bojovat za svobodu, a tak vznikla série Boje a zápasy!
 
 [[O čo šlo v sérii Boje a zápasy?->EF-IMG-015]]
-[[Aké boli tridsiate roky pre vás, pán Fulla?->LF-023]]
+[[Aká bola reakcia na tieto diela?->EF-035]]
 
 :: EF-IMG-015 [speaker-filla]
 <figure>
@@ -821,7 +817,7 @@ Obr. Zápas leva s býkom
 </figure>
 
 [[Čo hovoria tieto diela?->EF-033]]
-[[Aká bola reakcia na tieto diela?->EF-035]]
+[[Aká bola reakcia?->EF-035]]
 
 :: EF-033 [speaker-filla]
 Nikoliv ustrašené ústupky, nýbrž jedině boj představuje východisko z hrozivé situace... byl to apel na společnost... bojujte třeba i štětcem.
@@ -852,16 +848,16 @@ story.showDelayed("EF-IMG-017");
 Byl jsem si vědom, že svým „štětcem“ bodám rovnou do neuralgického bodu... Hned v první den války, 1. září 1939 si pro mne gestapáci přišli.
 
 [[Čo s vami urobili nacisti?->EF-IMG-018]]
-[[Aký osud postihol Fullu v tomto období?->LF-041]]
+[[Vráťme sa ešte k pánovi Fullovi v 30. rokoch.->LF-023]]
 
 :: EF-035B [speaker-filla]
-Proti útokům Hilera na demokracii v Evropě jsem protestoval svou tvorbou. Boje a zápasy a daľší mé díla z třicátých let byly kritikou nacistického násilí. Hned v první den války, 1. září 1939, mě (a mnohé jiné) zatklo Gestapo.
+Proti útokům Hilera na demokracii v Evropě jsem protestoval svou tvorbou. Boje a zápasy a další mé díla z třicátých let byly kritikou nacistického násilí. Hned v první den války, 1. září 1939, mě (a mnohé jiné) zatklo Gestapo.
 
 [[Čo s vami urobili nacisti?->EF-IMG-018]]
 [[O čo šlo v sérii Boje a zápasy?->EF-IMG-015]]
 
 :: EF-035C [speaker-filla]
-Má tvorba v 30. letech zhodnocovala skušenosti se surrealismem a také kritizovala nacistické násilí a útoky na demokracii. Hned v první den války, 1. září 1939, mě zatklo Gestapo. Odvedli mě do Dachau a pak do Buchenwaldu, kde jsem zůstal do konce války.
+Má tvorba v letech před válkou shodnocovala skušenosti se surrealismem a také kritizovala nacistické násilí a útoky na demokracii. Hned v první den války, 1. září 1939, mě zatklo Gestapo. Odvedli mě do Dachau a pak do Buchenwaldu, kde jsem zůstal do konce války.
 
 [[Povedzte mi viac o živote v Buchenwalde.->EF-IMG-018C]]
 [[Aký bol koniec vojny?->EF-IMG-019]]
@@ -918,7 +914,7 @@ story.showDelayed("LF-IMG-010");
 Začal som bývať chudobný ako kostolná myš. Na Trnavskej ulici prenajal som si ateliér, mal som len gauč, bielu skriňu z mäkkého dreva, stoličku a lavór... no a maliarsky stojan. 
 
 [[A bývali ste tam sám?->LF-PASSAGE-001]]
-[[Kde ste mali ateliér vy, pán Filla?->EF-ATL-001]]
+[[Kde ste mali ateliér vy, pán Filla?->EF-IMG-ATL-001]]
 
 :: LF-PASSAGE-001 [speaker-fulla]
 Krátko. Potom prišiel do Bratislavy na pozvanie profesora Vydru aj Mikuláš – môj priateľ ešte zo študentských čias. V tom čase bola núdza o ateliéry, preto som Mikulášovi ponúkol spolubývanie. 
@@ -963,13 +959,13 @@ story.showDelayed("LF-IMG-011");
 </figure>
 
 [[Ako sa vám spolu bývalo a tvorilo?->LF-028]]
-[[V tomto čase vznikol aj váš manifest?->LF-031]]
+[[Venovali ste sa aj iným tvorivým odvetviam?->LF-082]]
 
 :: LF-028 [speaker-fulla]
 Mikuláš bol tichý, melancholický, nenáročný, skromný, ale vždy elegantne oblečený. Keď pofajčieval cigaretu, snivo sa zahľadel do kotúčov dymu, akoby z nich čerpal inšpiráciu na prekrásne kresby.
 
 [[Aké boli reakcie na vašu tvorbu?->LF-029]]
-[[Venovali ste sa aj iným žánrom než maľbe?->LF-082]]
+[[V tomto čase vznikol aj váš manifest?->LF-031]]
 
 :: LF-029 [speaker-fulla]
 Keď zablúdil do nášho ateliéru slovenský človek a videl naše diela, s hrôzou sa chytil za hlavu, bez slova vybehol na schodisko a nezastal hádam ani na ulici. Slovenská dušička si vtedy ešte sladko odpočívala na prežitom folklóre.
@@ -1009,7 +1005,7 @@ story.showDelayed("LF-030");
 Hlásali sme nové moderné umenie. A robili sme to obrazom a slovom: „Umenie je hra a rozkoš!“
 
 [[Máte na mysli váš manifest?->LF-031]]
-[[Venovali ste sa aj iným žánrom než maľbe?->LF-082]]
+[[Venovali ste sa aj iným žánrom a výtvarným druhom?->LF-082]]
 
 :: LF-082 [speaker-fulla]
 Tak napríklad scénografii. Divadlo bolo mojou vášňou už z čias obchodnej školy, kreslil som kulisy a rôzne javiskové scény.
@@ -1096,7 +1092,7 @@ story.showDelayed("EF-IMG-035");
 
 
 :: LF-031 [speaker-fulla]
-Áno, vydali sme prvý manifest slovenského avantgardného umenia. Volal sa Súkromné listy Fullu a Galandu. V tom čase sme ho za manifest ani nepokladali, bol to v podstate časopis. Dbali sme na typografiu a dizajn, snažili sme sa o jazyk bežného človeka. 
+Áno, vydali sme prvý manifest slovenského avantgardného umenia. Volal sa <a href="https://www.webumenia.sk/clanok/sukromne-listy-fullu-a-galandu" target="_blank">Súkromné listy Fullu a Galandu</a>. V tom čase sme ho za manifest ani nepokladali, bol to v podstate časopis. Dbali sme na typografiu a dizajn, snažili sme sa o jazyk bežného človeka. 
 
 [[Chcem vidieť ukážku.->LF-SLFG-IMG-01]]
 [[Čo bolo zámerom listov?->LF-031B]]
@@ -1339,7 +1335,7 @@ story.showDelayed("EF-039");
 Čím více máš pocit svobody z díla, tím je hodnotnější, čím svobodněji bylo vytvořeno, tím více je v něm i umění. 
 
 [[Povedzte mi viac o živote v Buchenwalde.->EF-040]]
-[[Aký osud postihol Fullu v tomto období?->LF-041]]
+[[Aký bol koniec vojny?->EF-IMG-019]]
 
 :: EF-040 [speaker-filla]
 Říkali nám „Ehrenhäftlinge“ = čestní vězňové.  Na podzim 1941 jsme byli spolu s jinými vězni, například s Josefem Čapkem zařazeni do kategorie běžných häftlinků a nasazeni na těžké fyzické práce.
@@ -1352,7 +1348,7 @@ story.showDelayed("EF-IMG-018B");
 <figure>
 	<img src="https://www.ushmm.org/lcmedia/photo/lc/image/10/10105.jpg" alt="Nástup väzňov v koncentračnom tábore Buchenwald, 1938 - 1941" />
 		<figcaption>
-			<a href="https://www.ushmm.org/wlc/en/media_ph.php?ModuleId=0&MediaId=599">Nástup väzňov v koncentračnom tábore Buchenwald, 1938 - 1941, zdroj: Holocaust Encyclopedia</a>
+			<a href="https://www.ushmm.org/wlc/en/media_ph.php?ModuleId=0&MediaId=599" target="_blank">Nástup väzňov v koncentračnom tábore Buchenwald, 1938 - 1941, zdroj: Holocaust Encyclopedia</a>
 		</figcaption>
 </figure>
 
@@ -1375,14 +1371,14 @@ story.showDelayed("EF-043");
 :: EF-043 [speaker-filla]
 Žili jsme stejně jako ostatní vězni, stejné apely, stejné drastické podmínky s tím rozdílem, že při pátraní o předcích esesáckých tyranů, pod jich vražedným dohledem jsme byly vyňati z otrocké dřiny... a to nám zachránilo život. Tehdy jsem tajně začal psát. 
 
-[[O čom? ->EF-044]]
-[[Pomohlo vám to prežiť? ->EF-044B]]
+[[O čom?->EF-044]]
+[[Pomohlo vám to prežiť?->EF-044B]]
 
 :: EF-044 [speaker-filla]
 Statě o umění a také filozofické texty o svobodě.... jsou výplodem  probdělých 2000 krutých nocí, kdy místo spánku a snů v polobdělém a polosnovém přemítání vybavovaly se mi nejspletitější otázky... psal jsem to abych nezahynul. A snad i čtení těchto kapitol může dnes i zítra míti stejný důvod a účinek.
 
+[[Pomohlo vám písanie prežiť?->EF-044B]]
 [[Ako to celé dopadlo?->EF-IMG-019]]
-[[Aký osud postihol Fullu v tomto období?->LF-041B]]
 
 :: EF-044B [speaker-filla]
 Přežil jsem jen tak tak, i to s jizvami na těle i duši. Byla v tom jistě i velká dávka štěstí. Josef Čapek takové štěstí neměl, zemřel na tyfus jenom krátce před osvobozením.
@@ -1399,21 +1395,14 @@ story.showDelayed("EF-044C");
 	</figcaption>
 </figure>
 
-[[Ako si pamätáte návrat domov?->EF-IMG-019]]
-[[Aký osud postihol Fullu v tomto období?->LF-041B]]
+[[Ako si pamätáte na návrat domov?->EF-IMG-019]]
 
 :: LF-041 [speaker-fulla]
-Boli to roky trpkosti, náhle a predčasne zomrel môj dlhoročný priateľ Mikuláš. Po nútenom odchode profesora Vydru a iných českých kolegov som nakrátko prevzal riaditeľskú stoličku ŠUR-ky, črtala sa aj myšlienka založenia prvej Vysokej školy výtvarných umení... 
+Boli to roky trpkosti, náhle a predčasne zomrel môj dlhoročný priateľ Mikuláš. Po nútenom odchode profesora Vydru a iných českých kolegov som nakrátko prevzal riaditeľskú stoličku ŠUR-ky, črtala sa aj myšlienka založenia prvej Vysokej školy výtvarných umení... Tento pokus však skončil neúspešne.
 
 <%
 story.showDelayed("LF-IMG-018");
 %>
-
-:: LF-041B [speaker-fulla]
-Smutné roky. Po predčasnej smrti môjho priateľa Mikuláša Galandu, nútenom odchode profesora Vydru a neúspešnom pokuse zriadiť Akadémiu výtvarných umení som sa stiahol do ústrania a presťahoval do Martina. V tomto období som viacej ilustroval a vytvoril som aj niekoľko malieb a grafík s náboženskou tematikou. 
-
-[[Pošlite nejaký príklad.->LF-IMG-019]]
-[[Tešilo vás niečo v tomto ťažkom období?->EF-048]]
 
 :: LF-IMG-018 [speaker-fulla]
 
@@ -1429,10 +1418,10 @@ story.showDelayed("LF-042");
 %>
 
 :: LF-042 [speaker-fulla]
-V tomto období vytvoril som aj niekoľko malieb a grafík s náboženskou tematikou.
+Napokon som sa stiahol do ústrania a presťahoval do Martina. Viac som ilustroval a vytvoril som aj niekoľko malieb a grafík s náboženskou tematikou.
 
-[[Pošlite nejaký príklad.->LF-IMG-019]]
-[[Tešilo vás niečo v tomto ťažkom období?->EF-048]]
+[[Ukážte nejaký príklad.->LF-IMG-019]]
+[[Zmenila sa vaša tvorba?->LF-044B]]
 
 :: LF-IMG-019 [speaker-fulla]
 <figure>
@@ -1472,11 +1461,17 @@ story.showDelayed("LF-IMG-020");
 [[Tešilo vás niečo v tomto ťažkom období?->EF-048]]
 
 :: LF-044 [speaker-fulla]
-Pre moje obrazy nebolo v novom režime miesto. Preč boli roky s Mikulášom a opustil som aj farboplochy a líniotvary... prišla tvorivá kríza... asi aj preto zrodili sa tieto obrazy, ovplyvnené stredovekým umením...
+Pre moje maľby nebolo v ľudáckom režime miesto. Preč boli roky s Mikulášom a opustil som aj farboplochy a líniotvary... prišla tvorivá kríza... asi aj preto zrodili sa tieto diela, ovplyvnené stredovekým umením...
 
 <%
 story.showDelayed("EF-046");
 %>
+
+:: LF-044B [speaker-fulla]
+Pre moju tvorbu nebolo v ľudáckom režime miesto. Preč boli roky s Mikulášom a opustil som aj farboplochy a líniotvary... prišla tvorivá kríza... Diela ovplyvnené stredovekým a byzantským umením mi zrejme pomohli prekonať toto temné obdobie.
+
+[[Pomohla vám aj láska?->EF-048]]
+[[Ako ste žili a tvorili po vojne?->LF-060]]
 
 :: EF-046 [speaker-filla]
 Promiň, že ti do toho mluvím. Ale vidím zde, že si se nechal inspirovat uměním staré Byzance. Taky jsem v koncentračním táboře psal o Byzanci a jejím vlyvu na evropské umění, který byl dlouho hodně podceňován.
@@ -1488,9 +1483,8 @@ story.showDelayed("LF-045");
 :: LF-045 [speaker-fulla]
 Myslím, že práve tieto diela mi nakoniec pomohli prekonať toto temné obdobie.
 
-[[Tešilo vás niečo v tomto ťažkom období?->EF-048]]
-[[Čo sa dialo s vami, pán Filla, počas vojny?->EF-035C]]
-
+[[Pomohla vám aj láska?->EF-048]]
+[[Ako ste žili a tvorili po vojne?->LF-060]]
 
 :: EF-IMG-019 [speaker-filla]
 <figure>
@@ -1519,8 +1513,8 @@ story.showDelayed("EF-IMG-020");
 	</figcaption>
 </figure>
 
+[[Aký osud postihol počas vojny pána Fullu?->LF-041]]
 [[Čo vás držalo pri živote v tomto ťažkom období?->EF-048]]
-[[Ako ste žili a tvorili po vojne?->LF-060]]
 
 :: EF-048 [speaker-filla]
 Promluvme si o tom hezkém v našich životech. O lásce.
@@ -1830,7 +1824,7 @@ story.showDelayed("LF-IMG-029B");
 </figure>
 
 [[Aké bolo povojnové obdobie?->LF-060]]
-[[Akým témam ste sa venovali po vojne?->EF-056]]
+[[Povedzte mi ešte o ženách vo vašom živote.->EF-049]]
 
 :: LF-060 [speaker-fulla]
 Roky po vojne boli plné nových nádejí. Prišla aj ponuka učiť na UMPRUM-ke (umeleckej priemyslovke) a odsťahovať sa do Prahy.
@@ -2303,11 +2297,11 @@ story.showDelayed("LF-075");
 :: LF-075 [speaker-fulla]
 Emilovou smrťou sa končí aj obdobie paralel v našom živote. Preto prišiel čas rozlúčiť sa.
 
-[[Čo sa stalo s vašimi obrazmi, pán Filla?->EF-071]]
-[[Ako ste ďalej žili, pán Fulla?->LF-076]]
+[[Čo sa stalo s vašimi dielami, pán Filla?->EF-071]]
+[[Ako ste ďalej žili vy, pán Fulla?->LF-076]]
 
 :: EF-071 [speaker-filla]
-Hana věnovala čásť mého díla státu... pozdější tvorba je ve vlastnictví Galerie Benedikta Rejta v Lounech. Na Peruci se nachází má památná izba.
+Hana věnovala čásť mého díla státu... pozdější tvorba je ve vlastnictví Galerie Benedikta Rejta v Lounech. Na zámku Peruc se nachází má památná izba.
 
 [[Ako ste ďalej žili pán Fulla?->LF-076]]
 [[Ešte na záver, aký je váš odkaz?->EF-073]]
@@ -2418,7 +2412,7 @@ story.showDelayed("LF-END");
 
 :: LF-END [speaker-fulla]
 Viac informácií o výstave nájdeš tu:
-<a href="https://www.sng.sk/sk/vystavy/1502_filla-fulla-osud-umelce-osud-umelca">FILLA – FULLA: Osud umělce / Osud umelca</a>
+<a href="https://www.sng.sk/sk/vystavy/1502_filla-fulla-osud-umelce-osud-umelca" target="_blank">FILLA – FULLA: Osud umělce / Osud umelca</a>
 <br><br>
 Kolekciu s našimi dielami si môžeš pozrieť na Webe umenia:
 <a href="https://www.webumenia.sk/kolekcia/155" target="_blank">Kolekcia Filla / Fulla</a>
