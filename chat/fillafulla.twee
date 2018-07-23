@@ -63,7 +63,7 @@ story.showDelayed("LF-003");
 %>
 
 :: EF-002B [speaker-filla]
-Dalo by se říct, že je v ňem něco z Muncha, třeba z jeho <a href="https://www.edvardmunch.org/self-portrait-with-cigarette.jsp" target="_blank">portrétu s cigaretou</a>. Munchovu výstavu jsem v Praze viděl rok předtím, v 1905.
+Dalo by se říct, že je v něm něco z Muncha, třeba z jeho <a href="https://www.edvardmunch.org/self-portrait-with-cigarette.jsp" target="_blank">portrétu s cigaretou</a>. Munchovu výstavu jsem v Praze viděl rok předtím, v 1905.
 
 [[Kde sú korene vášho záujmu o umenie?->EF-003]]
 [[Ako ste sa dostali do Prahy?->EF-007]]
@@ -303,7 +303,7 @@ story.showDelayed("LF-013C");
 %>
 
 :: LF-013C [speaker-fulla]
-Taktiež ma inšpirovali Kandinskij, Klee či Chagall a postupne som svoju paletu obohacoval o poznanie ikonopisnej maľby, stredovekého umenia a v neposlednom rade aj nášho slovenského folklóru a jeho výtvarných prejavov.
+Tiež ma inšpirovali Kandinskij, Klee či Chagall a postupne som svoju paletu obohacoval o poznanie ikonopisnej maľby, stredovekého umenia a v neposlednom rade aj nášho slovenského folklóru a jeho výtvarných prejavov.
 
 [[Ako sa to prejavilo?->LF-IMG-004]]
 [[A čo vy, pán Filla?->EF-013]]
@@ -360,7 +360,7 @@ story.showDelayed("EF-IMG-006");
 	</figcaption>
 </figure>
 
-[[Nepresťahovali ste sa?->EF-014]]
+[[Nepresťahovali ste sa do Paríža?->EF-014]]
 [[Aký je váš vzťah ku kubizmu?->EF-022]]
 
 :: EF-014 [speaker-filla]
@@ -370,7 +370,7 @@ Moje plány změnil atentát na následníka rakousko-uherského trónu a vyhlá
 [[Ovplyvnil pobyt v Holandsku vašu tvorbu?->EF-IMG-007B]]
 
 :: EF-015 [speaker-filla]
-Rozhodl jsem se odejít do Paříže i s manželkou... přijel jsem hledat a nalézat odpovědi na tvůrčí otázky, a najednou jsme byli považováni za příslušníky znepřátelené mocnosti. Francouzské ůřady neznali pojem „Čech“, pro ně jsme byli „sujet autricien“ - rakouští poddaní.
+Rozhodl jsem se odejít do Paříže i s manželkou... přijel jsem hledat a nalézat odpovědi na tvůrčí otázky, a najednou jsme byli považováni za příslušníky znepřátelené mocnosti. Francouzské ůřady neznaly pojem „Čech“, pro ně jsme byli „sujet autrichien“ - rakouští poddaní.
 
 <%
 story.showDelayed("EF-016");
@@ -382,7 +382,7 @@ Prchali jsme přes Belgii, cestou vlakem, byli jsme zadrženi a odvlečeni do vo
 [[Ako to dopadlo?->EF-017]]
 
 :: EF-017 [speaker-filla]
-Nakonec se nám podařilo zachránit se. Velícího generála jsem přesvědčil, že nejsme Němci, ale příslušníci národa, který se chce spod rakousko-uherského jarma po staletích konečně vyslobodit. Generál se slitoval, našel skulinku v předpisech a dal nás místo zastřelení jenom vyhostit. 
+Nakonec se nám podařilo zachránit se. Velícího generála jsem přesvědčil, že nejsme Němci, ale příslušníci národa, který se chce spod rakousko-uherského jha po staletích konečně vysvobodit. Generál se slitoval, našel skulinku v předpisech a dal nás místo zastřelení jenom vyhostit. 
 
 <%
 story.showDelayed("EF-017B");
@@ -490,14 +490,14 @@ S manželkou jsme předávali tajné informace...
 [[Vrátili ste sa do Prahy?->EF-020D]]
 
 :: EF-020B [speaker-filla]
-Ještě před vypuknutím války, když ji už bylo možné cítit ve vzduchu, jsme s přáteli diskutovali o tom, že válka může být jedinečnou příležitostí osvobodit se z područí monarchie. Já jsem ji ale narozdíl od některích jiných nevítal, byl jsem toho názoru, že na ni jako národ nejsme připraveni. Jakékoliv snahy pomoct snahám osamostatnit se jsem se ovšem snažil podpořit jak to jenom šlo. Samostatné Československo mělo také býti protiváhou Německa a Maďarska, které si tehdy nárokovali mnohá území, kde žili naši spoluobčané.
+Ještě před vypuknutím války, když ji už bylo možné cítit ve vzduchu, jsme s přáteli diskutovali o tom, že válka může být jedinečnou příležitostí osvobodit se z područí monarchie. Já jsem ji ale na rozdíl od některých jiných nevítal, byl jsem toho názoru, že na ni jako národ nejsme připraveni. Jakékoliv snahy osamostatnit se jsem se ovšem snažil podpořit, jak to jenom šlo. Samostatné Československo mělo také býti protiváhou Německa a Maďarska, které si tehdy nárokovaly mnohá území, kde žili naši spoluobčané.
 
 <%
 story.showDelayed("EF-020C");
 %>
 
 :: EF-020C [speaker-filla]
-Slovensko jsem vnímal jako součást naší společné země a Slováky jako důležitou součást československého národa. Již v studentských letech jsem prošel pěšky téměř celé moravské Slovácko a velikou část Slovenska uherského. Slovenskou krajinu a tradice jsem obdivoval a věnoval ji mnoho úvah. 
+Slovensko jsem vnímal jako součást naší společné země a Slováky jako důležitou součást československého národa. Již v studentských letech jsem prošel pěšky téměř celé moravské Slovácko a velkou část Slovenska uherského. Slovenskou krajinu a tradice jsem obdivoval a věnoval ji mnoho úvah. 
 
 <%
 story.showDelayed("LF-02XC");
@@ -510,7 +510,7 @@ Slovenská krajina a jej tradície sú veru nevyčerpateľné studnice výtvarn�
 [[Vrátili ste sa do Prahy?->EF-020D]]
 
 :: EF-021 [speaker-filla]
-Přestěhovali jsme se do Amsterdamu a já hodně maloval, právě kubistické zátiší. Po vyhlášení samostatného Československa jsem taky pomáhal při organizování českého velvyslanectví v Haagu.
+Přestěhovali jsme se do Amsterdamu a já hodně maloval, právě kubistická zátiší. Po vyhlášení samostatného Československa jsem také pomáhal při organizování českého velvyslanectví v Haagu. Krátce po válce jsme se vrátili do Československa a já působil jistý čas na ministerstvu zahraničí, ale brzy jsem toho nechal a vrátil se primárně k malování.
 
 [[Aké ďalšie diela ste vytvorili pod vplyvom kubizmu?->EF-IMG-010]]
 [[Aký je váš vzťah ku kubizmu?->EF-022]]
@@ -808,7 +808,7 @@ story.showDelayed("EF-IMG-014");
 [[Ako ste sa k nemu postavili?->EF-031]]
 
 :: EF-030 [speaker-filla]
-Jako člen odboje počas první světové války proti Nemcům jsem vědel své... demokracie a svoboda se dostaly do ohrožení s nástupem Adolfa Hitlera k moci v roce 1933...
+Jako člen odboje počas první světové války proti Nemcům jsem věděl své... demokracie a svoboda se dostaly do ohrožení s nástupem Adolfa Hitlera k moci v roce 1933...
 
 <%
 story.showDelayed("EF-IMG-014B");
@@ -909,13 +909,13 @@ Byl jsem si vědom, že svým „štětcem“ bodám rovnou do neuralgického bo
 [[Vráťme sa ešte k pánovi Fullovi v 30. rokoch.->LF-023]]
 
 :: EF-035B [speaker-filla]
-Proti útokům Hilera na demokracii v Evropě jsem protestoval svou tvorbou. Boje a zápasy a další mé díla z třicátých let byly kritikou nacistického násilí. Hned v první den války, 1. září 1939, mě (a mnohé jiné) zatklo Gestapo.
+Proti útokům Hilera na demokracii v Evropě jsem protestoval svou tvorbou. Boje a zápasy a další má díla z třicátých let byly kritikou nacistického násilí. Hned v první den války, 1. září 1939, mě (a mnohé jiné) zatklo Gestapo.
 
 [[Čo s vami urobili nacisti?->EF-IMG-018]]
 [[O čo šlo v sérii Boje a zápasy?->EF-IMG-015]]
 
 :: EF-035C [speaker-filla]
-Má tvorba v letech před válkou shodnocovala skušenosti se surrealismem a také kritizovala nacistické násilí a útoky na demokracii. Hned v první den války, 1. září 1939, mě zatklo Gestapo. Odvedli mě do Dachau a pak do Buchenwaldu, kde jsem zůstal do konce války.
+Má tvorba v letech před válkou zhodnocovala zkušenosti se surrealismem a také kritizovala nacistické násilí a útoky na demokracii. Hned v první den války, 1. září 1939, mě zatklo Gestapo. Odvedli mě do Dachau a pak do Buchenwaldu, kde jsem zůstal do konce války.
 
 [[Povedzte mi viac o živote v Buchenwalde.->EF-IMG-018C]]
 [[Aký bol koniec vojny?->EF-IMG-019]]
@@ -2246,7 +2246,7 @@ K mým sedmdesátinám připravoval jsem v Mánesu výstavu z cyklu Písně a 21
 [[Ako to dopadlo?->EF-THREAD-004]]
 
 :: EF-063B [speaker-filla]
-Ze začátku se tvářili velice uctivě, ale brzy bylo jasné, že Písně nebyly podle jejich představ. Byly prý šeredné, ponuré, technika nevycházela z „naší tradice“, byly také málo realistické, heroické a tak podobně. Byla to klasická soudružská mluva - dogmatizmus maskovaný za zdvořilostní fráze a argumenty, které při bližším pohledu zcela nedávaly smysl. Nakonec mi zakázali vystavovat veškerou tvorbu, kromě Českého stredohoří.    
+Ze začátku se tvářili velice uctivě, ale brzy bylo jasné, že Písně nebyly podle jejich představ. Byly prý šeredné, ponuré, technika nevycházela z „naší tradice“, byly také málo realistické, heroické a tak podobně. Byla to klasická soudružská mluva - dogmatismus maskovaný za zdvořilostní fráze a argumenty, které při bližším pohledu zcela nedávaly smysl. Nakonec mi zakázali vystavovat veškerou tvorbu, kromě maleb Českého stredohoří.    
 
 [[Unikali ste nejako pred doktrínami režimu?->EF-065]]
 [[Vy, pán Fulla, ste sa presadili napriek železnej opone?->LF-IMG-035]]
