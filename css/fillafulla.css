@@ -17,6 +17,10 @@ body {
   font-family: HopeSans;
 }
 
+.content-container {
+  display: none;
+}
+
 /* 
  * counter extra margin-right added by MagnificPopup conflicting w fixed elements
  * https://github.com/dimsemenov/Magnific-Popup/issues/125
@@ -213,8 +217,8 @@ div.right-sidebar .share-container .social-links i {
 
 /* disable zoom out cursor */
 .mfp-zoom-out-cur {
-cursor: pointer;
+  cursor: pointer;
 }
 .mfp-zoom-out-cur .mfp-image-holder .mfp-close {
-cursor: pointer;
+  cursor: pointer;
 }
