@@ -194,7 +194,7 @@ story.showDelayed("EF-008");
 %>
 
 :: EF-008 [speaker-filla]
-Tehdejší rigidní výuka nebyla nic pro mne, žíznil jsem po moderním umění a mněl jsem  pocit, že vlastním bádáním získám víc... A tak jsem odešel.
+Tehdejší rigidní výuka nebyla nic pro mne, žíznil jsem po moderním umění a měl jsem  pocit, že vlastním bádáním získám víc... A tak jsem odešel.
 
 <%
 story.showDelayed("LF-007");
@@ -729,7 +729,7 @@ Na jedné z výstav ve Francii dokonce stát zakoupil naše obrazy do své galer
 [[To znie ako úspešné obdobie.->LF-020B]]
 
 :: EF-027A [speaker-filla]
-Ten můj se jmenoval Kytara na zdi, ale bohužel ho nemám po ruce. Tady je ovšem jiná kytara jenom pro vás.
+Ten můj se jmenoval Kytara na zdi, ale bohužel ho nemám po ruce. Tady je ovšem jiná kytara, nebo přesněji mandolína, jenom pro vás.
 
 <%
 story.showDelayed("EF-IMG-013");
@@ -737,11 +737,11 @@ story.showDelayed("EF-IMG-013");
 
 :: EF-IMG-013 [speaker-filla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Kytara_Podnos.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Kytara_Podnos.jpg" alt="Emil Filla - Zátiší na stole s kytarou a podnosem, 1932" />
+	<a href="https://www.webumenia.sk/images/diela/TMP/25/SVK_TMP.534/SVK_TMP.534.jpeg">
+		<img src="https://www.webumenia.sk/images/diela/TMP/25/SVK_TMP.534/SVK_TMP.534.jpeg" alt="Emil Filla - Zátiší s mandolínou, partiturou a podnosem, 1926" />
 	</a>
 	<figcaption>
-		Emil Filla - Zátiší na stole s kytarou a podnosem, 1932, Galerie Zdeněk Sklenář v Praze
+		Emil Filla - Zátiší s mandolínou, partiturou a podnosem, 1926, Súkromná zbierka
 	</figcaption>
 </figure>
 
