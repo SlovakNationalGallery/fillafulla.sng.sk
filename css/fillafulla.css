@@ -73,13 +73,25 @@ html {
 /* Passage Avatars */
 
 .chat-passage-wrapper[data-speaker='ty']:after {
-  content: url(https://fillafulla.sng.sk/img/avatar-user.png);
+  content: "";
+  width: 30px;
+  height: 30px;
+  background-image: url('/img/avatar-user.png');
+  background-size: 30px 30px;
 }
 .chat-passage-wrapper[data-speaker='filla']:before {
-  content: url(https://fillafulla.sng.sk/img/avatar-filla.png);
+  content: "";
+  width: 30px;
+  height: 30px;
+  background-image: url('/img/avatar-filla.png');
+  background-size: 30px 30px;
 }
 .chat-passage-wrapper[data-speaker='fulla']:before {
-  content: url(https://fillafulla.sng.sk/img/avatar-fulla.png);
+  content: "";
+  width: 30px;
+  height: 30px;
+  background-image: url('/img/avatar-fulla.png');
+  background-size: 30px 30px;
 }
 
 /* Speaker Name Colors & Alignment */
