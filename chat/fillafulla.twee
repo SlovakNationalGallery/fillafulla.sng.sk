@@ -25,6 +25,10 @@ inject_right_sidebar(rightSidebarContent);
 inject_hint(userResponseHintContent);
 inject_modal(modalTitleContent, modalBodyContent, modalFooterContent);
 
+$(document).ready(function() {
+    fade_in_content_containers();
+});
+
 
 :: Start [speaker-fulla]
 Zdravím ťa, som Ľudovít Fulla!

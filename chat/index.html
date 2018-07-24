@@ -121,7 +121,11 @@ inject_nav_menu(navLinkMenuContent);
 inject_left_sidebar(leftSidebarContent);
 inject_right_sidebar(rightSidebarContent);
 inject_hint(userResponseHintContent);
-inject_modal(modalTitleContent, modalBodyContent, modalFooterContent);</script><tw-passagedata pid="1" name="Start" tags="speaker-fulla" position="100,100">Zdravím ťa, som Ľudovít Fulla!
+inject_modal(modalTitleContent, modalBodyContent, modalFooterContent);
+
+$(document).ready(function() {
+    fade_in_content_containers();
+});</script><tw-passagedata pid="1" name="Start" tags="speaker-fulla" position="100,100">Zdravím ťa, som Ľudovít Fulla!
 
 &lt;%
 story.showDelayed(&quot;LF-IMG-000&quot;);
@@ -1854,25 +1858,27 @@ story.showDelayed(&quot;FF-END-IMG&quot;);
          * can be called from Story JavaScript to insert story specific content
          */
         function inject_nav_back(htmlContent) {
-            $('#nav-link-back').css('display', 'none').html(htmlContent).fadeIn();
+            $('.content-container#nav-link-back').html(htmlContent);
         }
         function inject_nav_menu(htmlContent) {
-            $('#nav-link-menu').css('display', 'none').html(htmlContent).fadeIn();
+            $('.content-container#nav-link-menu').html(htmlContent);
         }
         function inject_left_sidebar(htmlContent) {
-            $('#left-sidebar-container').css('display', 'none').html(htmlContent).fadeIn();
+            $('.content-container#left-sidebar-container').html(htmlContent);
         }        
         function inject_right_sidebar(htmlContent) {
-            $('#right-sidebar-container').css('display', 'none').html(htmlContent).fadeIn();
+            $('.content-container#right-sidebar-container').html(htmlContent);
         }
         function inject_hint(htmlContent) {
-            $('#user-response-hint').css('display', 'none').html(htmlContent).fadeIn();
+            $('.content-container#user-response-hint').html(htmlContent);
         }
         function inject_modal(titleContent, bodyContent, footerContent) {
-            // skip fadeIn because modal is off screen
-            $('#exitModal .modal-title').html(titleContent);
-            $('#exitModal .modal-body').html(bodyContent);
-            $('#exitModal .modal-footer').html(footerContent);
+            $('#exitModal .content-container.modal-title').html(titleContent);
+            $('#exitModal .content-container.modal-body').html(bodyContent);
+            $('#exitModal .content-container.modal-footer').html(footerContent);
+        }
+        function fade_in_content_containers() {
+            $('.content-container').fadeTo(400, 1);
         }
     </script>
     <script>(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
