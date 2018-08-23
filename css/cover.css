@@ -165,22 +165,39 @@ nav .logo-sng {
 .cover-heading {
   font-size: 1.0rem;
   text-align: left;
-  margin-left: 93px;
-  margin-right: 15px;
+  display: inline-block;
+  margin: auto;
 }
-.cover-heading svg { width: 1.0rem; fill: #fff; }
+.cover-heading svg { 
+  width: 1.0rem; fill: #fff; 
+}
+@media (max-width: 380px) {
+  .cover-heading {
+    display: block;
+    margin-left: 93px;
+    margin-right: 25px;
+  }
+}
+@media (min-width: 430px) {
+  .cover-heading {
+    font-size: 1.25rem;
+  }
+  .cover-heading svg { 
+    width: 1.25rem; 
+  }
+}
+
 @media (min-width: 576px) {
   .cover-heading {
-    font-size: 1.75rem;
-    text-align: center;
-    margin: auto;
-    max-width: 570px;
+    font-size: 1.5rem;
   }
-  .cover-heading svg { width: 1.75rem; }
+  .cover-heading svg { 
+    width: 1.5rem; 
+  }
 }
 @media (min-width: 768px) {
   .cover-heading {
-    /*font-size: 1.75rem;*/
+    font-size: 1.75rem;
   }
 }
 @media (min-width: 992px) {
@@ -188,7 +205,9 @@ nav .logo-sng {
     max-width: 100%;
     font-size: 2rem;
   }
-  .cover-heading svg { width: 2rem; }
+  .cover-heading svg { 
+    width: 2rem; 
+  }
 }
 
 /*
@@ -225,13 +244,11 @@ nav .logo-sng {
   font-weight: bold;
 }
 .cta a {
-  border-bottom: 5px solid rgba(253,211,197, 0.0);
-
+  border-bottom: 5px solid rgba(65,117,5, 0.3);
 }
-
 .cta a:hover {
   text-decoration: none;
-  border-bottom: 5px solid rgba(253,211,197, 1.0);
+  border-bottom: 5px solid rgba(65,117,5, 1.0);
 }
 
 /*.share-container p {
@@ -263,13 +280,13 @@ nav .logo-sng {
 
 .footer-links a {
   margin-right: 10px;
-  border-bottom: 2px solid rgba(253,211,197, 0.3);
+  border-bottom: 2px solid rgba(65,117,5, 0.3);
   margin-bottom: 10px;
 }
 
 .footer-links a:hover {
   text-decoration: none;
-  border-bottom: 2px solid rgba(253,211,197, 1.0);
+  border-bottom: 2px solid rgba(65,117,5, 1.0);
 }
 
 
