@@ -96,6 +96,34 @@ nav .logo-sng {
   float: right;
 }
 
+.language-switch {
+  list-style: none;
+  float: right;
+  font-size: 0.85rem;
+}
+@media (min-width: 576px) {
+  .language-switch {
+    font-size: 1rem;
+  }
+}
+.language-switch li {
+  margin-bottom: 8px;
+}
+.language-switch a,
+.language-switch a:focus,
+.language-switch a:hover {
+  text-decoration: none;
+  -webkit-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+}
+.language-switch a {
+  border-bottom: 3px solid rgba(65,117,5, 0.3);
+}
+.language-switch a:hover, .language-switch a.active {
+  border-bottom: 3px solid rgba(65,117,5, 1.0);
+}
+
 /*
  * Full-width bg split
  */

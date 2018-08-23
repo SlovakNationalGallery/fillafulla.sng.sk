@@ -66,7 +66,14 @@
         <div class="inner">
           <img src="/img/logo.svg" class="masthead-brand make-inline-svg" alt="Filla Fulla Chat">
           <nav class="nav nav-masthead justify-content-center">
-            <a class="nav-link" href="https://www.sng.sk/sk" target="_blank"><img class="logo-sng" src="img/logo-sng.svg" alt="SNG"></a>
+            <ul class="language-switch">
+              <li><a title="Slovenčina" hreflang="sk" rel="alternate" href="#" class="active">
+                SK
+              </a></li>
+              <li><a title="English" hreflang="en" rel="alternate" href="#">
+                EN
+              </a></li>
+            </ul>
           </nav>
           <h1 class="text-hide">Filla Fulla Chat</h1>
         </div>
@@ -76,12 +83,12 @@
     <div class="cover-container w-100 h-100">
 
       <main role="main" class="inner cover p-2 p-md-3 mx-auto">
-        <!-- <h1 class="cover-heading text-shadow">Chatuj s Fillom & Fullom</h1> -->
         <h2 class="cover-heading text-shadow">
-          Chatuj s Emilom Fillom
+          <span data-i18n="fillafulla-h2-start">Chatuj s Emilom Fillom</span>
+          <br>
           <nobr>
             <img src="/img/and.svg" class="make-inline-svg">
-            Ľudovítom Fullom
+            <span data-i18n="fillafulla-h2-end">Ľudovítom Fullom</span>
           </nobr>
         </h2>
         <h3 class="cross-logo">
@@ -94,18 +101,18 @@
         </h3>
 
         <div class="cta mb-5">
-          <i class="fa arrow1 fa-angle-right"></i> <a href="/chat">Štart</a> <i class="fa arrow2 fa-angle-left"></i>
+          <i class="fa arrow1 fa-angle-right"></i> <a href="/chat" data-i18n="fillafulla-cta">Štart</a> <i class="fa arrow2 fa-angle-left"></i>
         </div>
 
-        <p class="lead text-shadow">
+        <p class="lead text-shadow" data-i18n="[html]fillafulla-lead">
           Aplikácia približuje životné príbehy umelcov Emila Fillu a Ľudovíta Fullu formou interaktívneho rozhovoru. Chat dopĺňajú ukážky z&nbsp;tvorby autorov a&nbsp;archívne materiály.
         </p>
 
         <div class="share-container bg-white text-dark p-2 mb-3 d-inline-block d-md-block">
-          <p class="d-none d-md-inline mx-2 font-weight-normal">
-            Páči sa vám chat s Fillom a Fullom? Podeľte sa oň s vašimi priateľmi a&nbsp;zdieľajte túto stránku na sociálnych sieťach alebo e-mailom.
+          <p class="d-none d-md-inline mx-2 font-weight-normal" data-i18n="[html]fillafulla-share-long">
+            Páči sa vám chat s Fillom a Fullom?<br>Podeľte sa oň s vašimi priateľmi a&nbsp;zdieľajte túto stránku na sociálnych sieťach alebo e-mailom.
           </p>
-          <p class="d-inline d-md-none mx-2 font-weight-normal">
+          <p class="d-inline d-md-none mx-2 font-weight-normal" data-i18n="[html]fillafulla-share-short">
             Zdieľať s priateľmi
           </p>
           <div class="social-links d-inline-block d-md-block">
@@ -118,17 +125,14 @@
 
       <footer class="mastfoot mx-4">
         <div class="inner px-2 px-md-4 pb-2">
-          <p class="text-left">
+          <p class="text-left" data-i18n="[html]fillafulla-footer-text">
             Výstava <i>Filla — Fulla | Osud umělce — Osud umelca</i> je súčasťou spoločného projektu s Moravskou galériou v Brne <i>Made in Czechoslovakia</i>, ktorý je&nbsp;venovaný stému výročiu založenia Československa.
           </p>
           <p class="d-flex justify-content-start justify-content-sm-between flex-wrap footer-links text-left">
-            <!-- <a href="https://www.sng.sk/" target="_blank">Web SNG</a> -->
-            <!-- <a href="https://www.facebook.com/SlovenskaNarodnaGaleria" target="_blank">Facebook SNG</a> -->
-            <a href="/about.html">O aplikácii</a>
-            <a href="https://www.sng.sk/sk/vystavy/1502_filla-fulla-osud-umelce-osud-umelca" target="_blank">O výstave</a>
-            <a href="https://www.webumenia.sk/kolekcia/155" target="_blank">Web umenia</a>
-            <!-- <a href="mailto:lab@sng.sk" target="_blank">Kontakt</a> -->
-            <a href="http://lab.sng.sk/" target="_blank">Vytvoril lab.SNG</a>
+            <a data-i18n="fillafulla-footer-link-about" href="/about.html">O aplikácii</a>
+            <a data-i18n="fillafulla-footer-link-exhibition" href="https://www.sng.sk/sk/vystavy/1502_filla-fulla-osud-umelce-osud-umelca" target="_blank">O výstave</a>
+            <a data-i18n="fillafulla-footer-link-webumenia" href="https://www.webumenia.sk/kolekcia/155" target="_blank">Web umenia</a>
+            <a data-i18n="fillafulla-footer-link-labsng" href="http://lab.sng.sk/" target="_blank">Vytvoril lab.SNG</a>
           </p>
         </div>
       </footer>
@@ -153,6 +157,25 @@
     <script src="/js/vendor/js.cookie.min.js"></script>
     <script src="/js/disable-links.js?v=2"></script>
     <script src="/js/inline-svg.js"></script>
+    
+    <!-- i18n -->
+    <script src="/js/vendor/jquery.i18n/jquery.i18n.js"></script>
+    <script src="/js/vendor/jquery.i18n/jquery.i18n.messagestore.js"></script>
+    <script type="text/javascript">
+      $.i18n().load({
+        sk: '/i18n/sk.json',
+        en: '/i18n/en.json'
+      }).done( function () {
+        $('[data-i18n]').i18n();
+      } );
+
+      $('.language-switch a[hreflang]').click(function (e) {
+        var newLocale = e.target.getAttribute('hreflang');
+        $.i18n().locale = newLocale;
+        $('[data-i18n]').i18n();
+        $('.language-switch a[hreflang]').toggleClass('active');
+      })
+    </script>
 
     <!-- Pre-Loader -->
     <script type="text/javascript">
