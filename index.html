@@ -169,11 +169,29 @@
         $('[data-i18n]').i18n();
       } );
 
-      $('.language-switch a[hreflang]').click(function (e) {
-        var newLocale = e.target.getAttribute('hreflang');
+
+      function set_url_parameter(prop, value, urlParams) {
+        urlParams.set(prop, value);
+        window.history.replaceState({}, '', '/?' + urlParams);
+      }
+
+      function switch_locale(newLocale) {
         $.i18n().locale = newLocale;
         $('[data-i18n]').i18n();
         $('.language-switch a[hreflang]').toggleClass('active');
+      }
+
+      var urlParams = new URLSearchParams(window.location.search);
+      console.log("urlParams", urlParams);
+      var langValue = urlParams.get('lang');
+      if (langValue === 'en') {
+        switch_locale('en');
+      }
+
+      $('.language-switch a[hreflang]').click(function (e) {
+        var newLocale = e.target.getAttribute('hreflang');
+        switch_locale(newLocale)
+        set_url_parameter('lang', newLocale, urlParams);
       })
     </script>
 
