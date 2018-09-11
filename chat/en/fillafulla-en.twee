@@ -72,7 +72,7 @@ story.showDelayed("LF-002");
 %>
 
 :: LF-002 [speaker-fulla]
-What a nice self-portrait.
+Nice self-portrait!
 
 [[What year is it from?->EF-002]]
 [[Was it inspired by anything?->EF-002B]]
@@ -85,20 +85,20 @@ story.showDelayed("LF-003");
 %>
 
 :: EF-002B [speaker-filla]
-You could say that there’s something of Munch in it, maybe his <a href="https://www.edvardmunch.org/self-portrait-with-cigarette.jsp" target="_blank">Self-portrait with a cigarette </a>. In Prague, I saw the Munch exhibition one year earlier, in 1905.
+You could say that there’s something of Munch in it, maybe his <a href="https://www.edvardmunch.org/self-portrait-with-cigarette.jsp" target="_blank">Self-Portrait with Cigarette</a>. I saw the Munch exhibition in Prague in 1905, a year before I painted this.
 
 [[What are the roots of your interest in art?->EF-003]]
 [[How did you get to Prague?->EF-007]]
 
 :: LF-003 [speaker-fulla]
-You look more like an old man there than a youth 😉. But Prague is fun... I also studied there, but twenty years later than Emil did… and I look back on it fondly. 
+You look more like an old man than a youngster there 😉. But yeah, Prague is fun... I also studied there, thought that was twenty years after Emil... I look back on it fondly.
 
 [[Were you interested in art as a child?->EF-003]]
 [[How did you get to Prague?->EF-007]]
 
 
 :: EF-003 [speaker-filla]
-I was born in April 1882 in a Czech town Chropyně. My father was a railway official. My mother came from the Moravian-Slovak borderlands. 
+I was born in April 1882 in the Czech town Chropyně. My father was a railway official. My mother came from the Moravian-Slovak borderlands. 
 
 <%
 story.showDelayed("EF-IMG-002");
@@ -126,13 +126,13 @@ story.showDelayed("LF-004");
 %>
 
 :: LF-004 [speaker-fulla]
-I was born in Ružomberok, February 27th, 1902. Very early on, I fell ill, and so that I wouldn’t be bored, my mother bought me a small palette with little knobs of paint. And so I licked my finger and wiped it on the other side of the palette, and then somehow drew my first human figure.
+I was born in Ružomberok, February 27th, 1902. Early in life I fell ill, so to keep me from getting bored, my mother bought me a small palette with bits of paint. I licked my finger and wiped it on the other side of the palette, that's how I drew my first human figure.
 
 [[Where did you go to school?->EF-005]]
 [[Did your studies of art only start in Prague?->EF-007]]
 
 :: EF-005 [speaker-filla]
-Unfortunately, my parents had no understanding for my artistic ambitions. They sent me to the School of Commerce.
+Unfortunately, my parents didn't understand my artistic ambitions. They sent me to the School of Commerce.
 
 <%
 story.showDelayed("LF-005");
@@ -159,14 +159,14 @@ story.showDelayed("LF-IMG-001");
 [[What were your student years like?->EF-007]]
 
 :: EF-006 [speaker-filla]
-It’s certainly possible… but there are twenty years between me and Luda. 
+It’s certainly possible... but there are twenty years between me and Luda.
 
 <%
 story.showDelayed("LF-006");
 %>
 
 :: LF-006 [speaker-fulla]
-All I can say with certainty is that even though we never met in person, I knew Emil’s work… we shared the same interest in modern art… When I saw on display one of Emil’s paintings, where he sliced through realism like a saw through dry wood, the expressions on our faces quenched the smiles of the incorrigible reactionaries. 
+All I can say with certainty is that even though we never met in person, I knew Emil’s work... we shared the same interest in modern art... When I saw one of Emil’s paintings on display, where he sliced through realism like a saw through dry wood, the expressions on our faces quenched the smiles of the incorrigible reactionaries. 
 
 [[Do you remember any important moments during your studies?->EF-010]]
 [[What were your student years like?->EF-007]]
@@ -193,7 +193,7 @@ story.showDelayed("EF-008");
 %>
 
 :: EF-008 [speaker-filla]
-The rigid training of that era was hardly for me, I was yearning for modern art and had the feeling that my own investigations would give me more... And so I left.
+The rigid training of that era was hard for me, I was yearning for modern art and had the feeling that my own investigations would be more satisfying... So I left.
 
 <%
 story.showDelayed("LF-007");
@@ -207,12 +207,12 @@ story.showDelayed("EF-009");
 %>
 
 :: EF-009 [speaker-filla]
-This was when all of the currents in modern art were coming into force… the old petty-bourgeois art was dying and we just happened to be there. I’d say that this influenced us, and indicated where our artistic paths would lead....
+This was when all of the currents in modern art were coming into force... the old petty-bourgeois art was dying and we just happened to be there. I’d say that this influenced us greatly, and determined where our artistic paths would lead...
 
-[[Was there some moment when this change manifested?->EF-010]]
+[[Was there a particular moment this change manifested itself?->EF-010]]
 
 :: EF-010 [speaker-filla]
-In the Kinský Gardens in 1905, there was an exhibition by Edvard Munch, which led me to join with my friends and form the “Eight”. Edvard Munch was also the inspiration for my early Expressionist painting “Reader of Dostoyevsky”, which in time became quite the subject of discussion.
+In the Kinský Gardens in 1905, there was an exhibition by Edvard Munch, which led me get together with my friends and form the “Eight”. Edvard Munch was also the inspiration for my early Expressionist painting “Reader of Dostoyevsky”, which in time became quite the subject of discussion.
 
 <%
 story.showDelayed("EF-IMG-004");
@@ -246,7 +246,7 @@ story.showDelayed("EF-011A");
 %>
 
 :: EF-011A [speaker-filla]
-This is what I wrote in Volné směry (the artistic journal of the Mánes Artists’ Alliance): “The work of Munch went off like a firecracker in our hearts… All of our desires, loves and hopes were at once realised, we were in a state of permanent excitement … because we saw in him a guardian angel of our future path and the one to bless our resolution to become artists of today. We thought and felt that Munch had arrived for us alone”. 
+This is what I wrote in Volné směry (the artistic journal of the Mánes Artists’ Alliance): “The work of Munch went off like a firecracker in our hearts... All of our desires, loves and hopes were at once realised, we were in a state of permanent excitement ... because we saw in him a guardian angel of our future path and the one to bless our resolution to become artists of today. We thought and felt that Munch had arrived for us alone”.
 
 <%
 story.showDelayed("EF-011B");
@@ -259,7 +259,7 @@ I left the “Eight” when they started arguing about the future of cubism. And
 [[How were your first encounters with Galanda?->LF-010]]
 
 :: LF-009 [speaker-fulla]
-He was a pioneer of modern art. A painter, printmaker, illustrator… and my closest friend. 
+He was a pioneer of modern art. A painter, printmaker, illustrator... and my closest friend.
 
 <%
 story.showDelayed("LF-IMG-002");
@@ -300,32 +300,32 @@ story.showDelayed("LF-011");
 %>
 
 :: LF-011 [speaker-fulla]
-We were sitting in the café Belvedere, drinking aromatic black coffee or cappuccino… Our greatest joy was when we visited the library of the Museum of Decorative Arts, where we could bend down over a heap of international art journals...
+We were sitting in café Belvedere, drinking aromatic black coffee or cappuccino... Our greatest joy was to visit the library of the Museum of Decorative Arts, where we'd hunch over stacks of international art journals...
 
 <%
 story.showDelayed("LF-012");
 %>
 
 :: LF-012 [speaker-fulla]
-Never did we speak unnecessarily, and perhaps because of this we understood each other so well. Even then, we were matching ourselves against all of the art styles that were then springing up. 
+We never spoke unnecessarily, that's perhaps why we understood each other so well. Even then, we were comparing ourselves against all the art styles that were springing up at the time. 
 
 [[Who were your artistic inspirations?->LF-013]]
 
 :: LF-013 [speaker-fulla]
-My inspiration? A hard question to answer. There was the entire spectrum of modern French art, names like Braque, Matisse, Picasso, Rouault... all the names that stood for absolute creative freedom. At certain points, I was also inspired by Kandinsky, Klee or Chagall, yet for much of what had the strongest influence on my artistic development, the specific artist was not that important. I’m thinking, for instance, about medieval art or children’s drawings.
+My inspiration? A hard question to answer. There was the entire spectrum of modern French art, names like Braque, Matisse, Picasso, Rouault... all the names that stood for absolute creative freedom. At times I also drew inspiration from Kandinsky, Klee and Chagall, yet as for the strongest influence on my artistic development, the specific artist was not that important. I’m thinking, for instance, about medieval art or children’s drawings.
 
 [[How did it take place?->LF-IMG-004]]
 [[And what about you, Mr Filla?->EF-013]]
 
 :: LF-013B [speaker-fulla]
-Hard to say. I always tried to combine diverging influences as freely as I could. In earlier years, I was most impressed by the personalities of modern French art who stood for absolute creative freedom – names like Braque, Matisse, Picasso, Rouault...
+Hard to say. I always tried to combine diverging influences as freely as I could. In earlier years, I was most impressed by the personalities of modern French artists who stood for absolute creative freedom – names like Braque, Matisse, Picasso, Rouault...
 
 <%
 story.showDelayed("LF-013C");
 %>
 
 :: LF-013C [speaker-fulla]
-I was also inspired by Kandinsky, Klee or Chagall, and gradually enriched my palette with a knowledge of icon painting, medieval art, and no less importantly, the folk culture here in Slovakia and its artistic manifestations. 
+I was also inspired by Kandinsky, Klee and Chagall, and gradually enriched my palette with knowledge of icon painting, medieval art, and no less importantly, the folk culture here in Slovakia and its artistic manifestations.
 
 [[How did it take place?->LF-IMG-004]]
 [[And what about you, Mr Filla?->EF-013]]
@@ -366,7 +366,7 @@ story.showDelayed("EF-013");
 %>
 
 :: EF-013 [speaker-filla]
-When I was in Paris in 1910 and saw the paintings of Picasso and Braque… this is when I encountered Cubism. Second, when I wanted to move there to study the work of French Cubism in greater depth.... 
+When I was in Paris in 1910 and saw the paintings of Picasso and Braque... this is when I encountered Cubism. Second, when I wanted to move there to study the work of French Cubism in greater depth...
 
 <%
 story.showDelayed("EF-IMG-006");
@@ -386,25 +386,25 @@ story.showDelayed("EF-IMG-006");
 [[What is your relationship to Cubism?->EF-022]]
 
 :: EF-014 [speaker-filla]
-My plans were changed by the assassination of Franz Ferdinand, successor to the Austro-Hungarian throne, and the consqeuence – the start of World War I. With my wife, I had to flee France for the Netherlands.
+My plans were changed by the assassination of Franz Ferdinand, successor to the Austro-Hungarian throne, and the consqeuence – the start of World War I. My wife and I had to flee France for the Netherlands.
 
 [[How did you escape to the Netherlands?->EF-015]]
 [[Did your stay in the Netherlands influence your work?->EF-IMG-007B]]
 
 :: EF-015 [speaker-filla]
-I had decided to go to Paris along with my wife… I came there to seek and find answers to the questions of art, and, all of a sudden, we were regarded as members of a hostile power. The French officials had no concept of the idea of a “Czech”. For them, we were “sujet autrichien” – subjects of Austria.
+I had decided to go to Paris along with my wife... I came there to seek and find answers to the questions of art, and, all of a sudden, we were regarded as members of a hostile power. The French officials had no concept of the idea of a “Czech”. For them, we were “sujet autrichien” – subjects of Austria.
 
 <%
 story.showDelayed("EF-016");
 %>
 
 :: EF-016 [speaker-filla]
-We fled through Belgium by train; we were arrested and taken to the military fortification in Antwerp, where they threatened to shoot us – we only narrowly escaped death. 
+We fled through Belgium by train; we were arrested and taken to the military fortification in Antwerp, where they threatened to shoot us – we only narrowly escaped death.
 
 [[How did it work out?->EF-017]]
 
 :: EF-017 [speaker-filla]
-In the end, we were able to save ourselves. The general in command understood our argument that we weren’t Germans but members of a nation that hoped, after centuries beneath the Austro-Hungarian yoke, to find its freedom someday. He took pity on us, found a loophole in the regulations, and instead of having us shot simply had us deported. 
+In the end, we were able to save ourselves. The general in command understood our argument that we weren’t Germans but members of a nation that hoped, after centuries beneath the Austro-Hungarian yoke, to finally find its freedom. He took pity on us, found a loophole in the regulations, and instead of having us shot simply had us deported. 
 
 <%
 story.showDelayed("EF-017B");
@@ -452,7 +452,7 @@ story.showDelayed("EF-018");
 %>
 
 :: EF-018 [speaker-filla]
-This was created under the influence of Dutch painting. I studied the old masters – Rembrandt, Breughel, etc. Several notebooks were filled with my observations and theories. 
+This was created under the influence of Dutch painting. I studied the old masters – Rembrandt, Breughel, etc. I've filled several notebooks with my observations and theories.
 
 <%
 story.showDelayed("EF-IMG-008");
@@ -479,7 +479,7 @@ One day, I saw in the newspaper an article about a Czech resistance organisation
 [[What were your views on the creation of Czechoslovakia?->EF-020B]]
 
 :: EF-THREAD-001 [speaker-filla]
-It was a secret organisation for Czechoslovak independence during World War I. Its main areas were espionage and conspiratorial activities.
+It was a secret organisation for Czechoslovak independence during World War I. Its main objectives were espionage and conspiratorial activities.
 
 <%
 story.showDelayed("EF-IMG-009");
@@ -668,7 +668,7 @@ story.showDelayed("LF-IMG-008");
 [[Did anyone appreciate your artistic ambitions?->EF-026]]
 
 :: EF-024 [speaker-filla]
-I painted still lifes, which became a kind of artistic laboratory for me… Some of the critics of the time even dubbed me “the prisoner of Cubism”. 
+I painted still lifes, which became a kind of artistic laboratory for me... Some of the critics of the time even dubbed me “the prisoner of Cubism”. 
 
 <%
 story.showDelayed("EF-IMG-012");
@@ -689,7 +689,7 @@ story.showDelayed("LF-018");
 %>
 
 :: LF-018 [speaker-fulla]
-Those golden Twenties… the end of that decade was interesting.
+Those golden Twenties... the end of that decade was interesting.
 
 <%
 story.showDelayed("EF-025");
@@ -770,7 +770,7 @@ story.showDelayed("LF-020");
 %>
 
 :: LF-020 [speaker-fulla]
-Imagine our artworks hanging in a gallery in Paris… and they’re still there today. 
+Imagine our artworks hanging in a gallery in Paris... and they’re still there today. 
 
 [[Do you look back fondly at these times?->LF-020B]]
 [[Did you have similar success in your home country as well?->LF-020C]]
@@ -797,7 +797,7 @@ story.showDelayed("LF-021");
 %>
 
 :: LF-021 [speaker-fulla]
-Hey, don’t spoil things… it’s nice to enjoy a pleasurable reminiscence… Then there was the World Exposition in Paris in 1937, where I won the highest award, the Grand Prix for my canvas, titled “Song and Labour”. But more about that later...
+Hey, don’t spoil things... it’s nice to enjoy a pleasurable reminiscence... Then there was the World Exposition in Paris in 1937, where I won the highest award, the Grand Prix for my canvas, titled “Song and Labour”. But more about that later...
 
 <%
 story.showDelayed("LF-022");
@@ -897,7 +897,7 @@ story.showDelayed("EF-IMG-016");
 [[What were the reactions?->EF-035]]
 
 :: EF-033 [speaker-filla]
-Not terrified concessions, but only the will to fight showed us a way out of the terrifying situation. It was an appeal to society – to fight, even if only with a paintbrush….
+Not terrified concessions, but only the will to fight showed us a way out of the terrifying situation. It was an appeal to society – to fight, even if only with a paintbrush....
 
 <%
 story.showDelayed("EF-034");
@@ -924,7 +924,7 @@ story.showDelayed("EF-IMG-017");
 [[Were you at all afraid?->EF-035]]
 
 :: EF-035 [speaker-filla]
-I was well aware that with my paintbrush, I was “stabbing” the most sensitive spots… Right on the first day of the war, September 1st, 1939, the Gestapo came to arrest me.
+I was well aware that with my paintbrush, I was “stabbing” the most sensitive spots... Right on the first day of the war, September 1st, 1939, the Gestapo came to arrest me.
 
 [[What did the Nazis do to you?->EF-IMG-018]]
 [[What about Mr Fulla in the 1930s?->LF-023]]
@@ -994,7 +994,7 @@ story.showDelayed("LF-IMG-010");
 [[What was life like for a teacher starting out?->LF-027]]
 
 :: LF-027 [speaker-fulla]
-At the start, I was as poor as the proverbial church mouse. I rented an atelier in Trnavská ulica: I only had one sofa, a white cabinet of soft wood, a small table and a washbasin… and of course, my easel. 
+At the start, I was as poor as the proverbial church mouse. I rented an atelier in Trnavská ulica: I only had one sofa, a white cabinet of soft wood, a small table and a washbasin... and of course, my easel. 
 
 [[Did you live there alone?->LF-PASSAGE-001]]
 [[Where did you have your studio, Mr Filla?->EF-IMG-ATL-001]]
@@ -1246,7 +1246,7 @@ I wholeheartedly support these kinds of enlightening activities, even if they be
 [[What sort of works were created in this way?->LF-IMG-014]]
 
 :: LF-031B [speaker-fulla]
-We fought against the idea of art that slavishly imitates reality. The function of painting is to create a new emotive reality: using colour, light, surfaces… A picture is a picture, not a section of the landscape. Painting is the play of lines and colour-forms; and from these elements, based on standards of taste, we create the work of art.
+We fought against the idea of art that slavishly imitates reality. The function of painting is to create a new emotive reality: using colour, light, surfaces... A picture is a picture, not a section of the landscape. Painting is the play of lines and colour-forms; and from these elements, based on standards of taste, we create the work of art.
 
 <%
 story.showDelayed("EF-031C");
@@ -1355,7 +1355,7 @@ Unfortunately not: they were never realised – and I never got paid!
 [[What did you do with these designs?->LF-035]]
 
 :: LF-035 [speaker-fulla]
-I had a lot of work with teaching in the art school, where they also added classes for children; there were entire months when I didn’t once pick up my paintbrush… but still the time came, and I painted it... 
+I had a lot of work with teaching in the art school, where they also added classes for children; there were entire months when I didn’t once pick up my paintbrush... but still the time came, and I painted it... 
 
 <%
 story.showDelayed("LF-035B");
@@ -1420,13 +1420,13 @@ story.showDelayed("EF-040");
 %>
 
 :: EF-036 [speaker-filla]
-The Nazis took me to Dachau and then to Buchenwald, where they kept me until the end of the war. I didn’t paint anything. All I did was write… just to survive. 
+The Nazis took me to Dachau and then to Buchenwald, where they kept me until the end of the war. I didn’t paint anything. All I did was write... just to survive. 
 
 [[What did you write about?->EF-037]]
 [[How were you treated?->EF-040]]
 
 :: EF-037 [speaker-filla]
-I wrote about art, about freedom, about the beauty of the Czech language – secretly, at the table where we all sat crammed together, but this wasn’t the worst. Sometimes, outside you could hear the most terrible screams… 
+I wrote about art, about freedom, about the beauty of the Czech language – secretly, at the table where we all sat crammed together, but this wasn’t the worst. Sometimes, outside you could hear the most terrible screams... 
 
 <%
 story.showDelayed("EF-038");
@@ -1474,25 +1474,25 @@ story.showDelayed("EF-041");
 %>
 
 :: EF-041 [speaker-filla]
-We were given picks to dig shafts for the huge concrete pipes that were intended to bring water into the arms factory. At the time, I was 58... and, for instance, Josef Čapek was 57. It was all too clear that we couldn’t survive the coming winter… but then along came Hugo Rokyta, one of the Czech prisoners, with an idea that saved us.
+We were given picks to dig shafts for the huge concrete pipes that were intended to bring water into the arms factory. At the time, I was 58... and, for instance, Josef Čapek was 57. It was all too clear that we couldn’t survive the coming winter... but then along came Hugo Rokyta, one of the Czech prisoners, with an idea that saved us.
 
 [[Akou?->EF-042]]
 
 :: EF-042 [speaker-filla]
-He worked in the camp as an interpreter between the German officers and the Czech prisoners. He proposed to General Koch of the SS that we could, as artists, illustrate Aryan ancestry certificates for the SS officers… and he readily agreed. 
+He worked in the camp as an interpreter between the German officers and the Czech prisoners. He proposed to General Koch of the SS that we could, as artists, illustrate Aryan ancestry certificates for the SS officers... and he readily agreed. 
 
 <%
 story.showDelayed("EF-043");
 %>
 
 :: EF-043 [speaker-filla]
-Our lives were no different from the other prisoners: the same military drill, the same terrible conditions, but with one difference: as we searched for the ancestors of our SS tyrants, right under their murderous gaze, we were freed from the pains of slave labour… and this saved our lives. It was then that I secretly started to write. 
+Our lives were no different from the other prisoners: the same military drill, the same terrible conditions, but with one difference: as we searched for the ancestors of our SS tyrants, right under their murderous gaze, we were freed from the pains of slave labour... and this saved our lives. It was then that I secretly started to write. 
 
 [[What did you write about?->EF-044]]
 [[Did it help you to survive?->EF-044B]]
 
 :: EF-044 [speaker-filla]
-Essays about art, and also philosophical texts about freedom… these are the fruit of 2000 long, cruel nights, when instead of sleep and dreams I remained half-poised between waking and dreaming, and the most convoluted ideas arose in me… I wrote them down so I simply wouldn’t die. Perhaps even today, to read from these chapters could have the same purpose and the same effect.
+Essays about art, and also philosophical texts about freedom... these are the fruit of 2000 long, cruel nights, when instead of sleep and dreams I remained half-poised between waking and dreaming, and the most convoluted ideas arose in me... I wrote them down so I simply wouldn’t die. Perhaps even today, to read from these chapters could have the same purpose and the same effect.
 
 [[Did your writing help you to survive?->EF-044B]]
 [[How did it all turn out?->EF-IMG-019]]
@@ -1517,7 +1517,7 @@ story.showDelayed("EF-044C");
 [[How do you remember your return home?->EF-IMG-019]]
 
 :: LF-041 [speaker-fulla]
-These were bitter years. First, the sudden and premature death of my longstanding friend Mikuláš. After the forced departure of Professor Vydra and other Czech colleagues, I briefly held the directorship of the “Arts and Crafts”, and began to speculate on the possibility of starting our first University of Fine Arts… But this endeavor wasn't successful. 
+These were bitter years. First, the sudden and premature death of my longstanding friend Mikuláš. After the forced departure of Professor Vydra and other Czech colleagues, I briefly held the directorship of the “Arts and Crafts”, and began to speculate on the possibility of starting our first University of Fine Arts... But this endeavor wasn't successful. 
 
 <%
 story.showDelayed("LF-IMG-018");
@@ -1566,7 +1566,7 @@ story.showDelayed("LF-043");
 %>
 
 :: LF-043 [speaker-fulla]
-On the other hand, you see, I was never very active politically. I always wanted only to be a painter…  and in spite of this, there were people who, even after the war, saw something political in my artwork. 
+On the other hand, you see, I was never very active politically. I always wanted only to be a painter...  and in spite of this, there were people who, even after the war, saw something political in my artwork. 
 
 <%
 story.showDelayed("LF-IMG-020");
@@ -1586,14 +1586,14 @@ story.showDelayed("LF-IMG-020");
 [[What kept you going during this difficult time?->EF-048]]
 
 :: LF-044 [speaker-fulla]
-There was no place for my work under Slovakia’s pro-Nazi regime. My years with Mikuláš were over, and I gave up on colour surfaces and line forms: it was a creative crisis… and perhaps for this very reason, I came up with these works, influenced by medieval art… 
+There was no place for my work under Slovakia’s pro-Nazi regime. My years with Mikuláš were over, and I gave up on colour surfaces and line forms: it was a creative crisis... and perhaps for this very reason, I came up with these works, influenced by medieval art... 
 
 <%
 story.showDelayed("EF-046");
 %>
 
 :: LF-044B [speaker-fulla]
-There was no place for my work under Slovakia’s pro-Nazi regime. My years with Mikuláš were over, and I gave up on colour surfaces and line forms: it was a creative crisis… These works influenced by medieval and Byzantine art were probably crucial in helping me to get through this dark time.
+There was no place for my work under Slovakia’s pro-Nazi regime. My years with Mikuláš were over, and I gave up on colour surfaces and line forms: it was a creative crisis... These works influenced by medieval and Byzantine art were probably crucial in helping me to get through this dark time.
 
 [[And what about love? Did it help?->EF-048]]
 [[How did you live and work after the war?->LF-060]]
@@ -1626,7 +1626,7 @@ story.showDelayed("EF-047");
 %>
 
 :: EF-047 [speaker-filla]
-I had six heart attacks, and never even knew about them… but somehow I survived in the end, and returned home. For an entire year, I remained in bed recovering; the only thing I could do, lying down, was drypoint sketching. At that time I illustrated the new volume of poetry by my friend František Halas.
+I had six heart attacks, and never even knew about them... but somehow I survived in the end, and returned home. For an entire year, I remained in bed recovering; the only thing I could do, lying down, was drypoint sketching. At that time I illustrated the new volume of poetry by my friend František Halas.
 
 <%
 story.showDelayed("EF-IMG-020");
@@ -1653,7 +1653,7 @@ story.showDelayed("LF-046");
 %>
 
 :: LF-046 [speaker-fulla]
-I agree. About women… in life and in art. 
+I agree. About women... in life and in art. 
 
 [[About women in life?->EF-049]]
 [[About women in art?->EF-053]]
@@ -1808,13 +1808,13 @@ story.showDelayed("LF-053");
 %>
 
 :: LF-053 [speaker-fulla]
-I taught children in after-school classes, with the aim of finding out new talents… and we even had children come to the re-created Arts and Crafts school. 
+I taught children in after-school classes, with the aim of finding out new talents... and we even had children come to the re-created Arts and Crafts school. 
 
 [[What did you teach them?->LF-054]]
 [[Which books did you illustrate?->LF-056]]
 
 :: LF-054 [speaker-fulla]
-Two-dimensional coloured drawing, gluing and collage… both me and the children learned something. The naïve lines of a child's drawing became a part of my own style too. 
+Two-dimensional coloured drawing, gluing and collage... both me and the children learned something. The naïve lines of a child's drawing became a part of my own style too. 
 
 <%
 story.showDelayed("LF-IMG-026");
@@ -1836,19 +1836,19 @@ story.showDelayed("LF-055");
 %>
 
 :: LF-055 [speaker-fulla]
-Books of fairy-tales followed me through my entire life… as a boy when I stood in front of the window of the bookstore in my home town of Ružomberok... and then later when I illustrated children’s books myself. 
+Books of fairy-tales followed me through my entire life... as a boy when I stood in front of the window of the bookstore in my home town of Ružomberok... and then later when I illustrated children’s books myself. 
 
 [[Which books did you illustrate?->LF-056]]
 [[Could you say more about the inspiration of women in art? ->EF-053]]
 
 :: LF-056 [speaker-fulla]
-First, the Illustrated Slovak Tales, published in 1925, then later, for example, Rhymes for the Young by Ľudmila Podjavorinská, Salt above Gold, The Twelve Months… the list is really long. But the most important of all of them was the book Slovak Folk Tales.
+First, the Illustrated Slovak Tales, published in 1925, then later, for example, Rhymes for the Young by Ľudmila Podjavorinská, Salt above Gold, The Twelve Months... the list is really long. But the most important of all of them was the book Slovak Folk Tales.
 
 [[Why is this so important?->LF-057]]
 [[Could you say something more about the time after the war?->LF-060]]
 
 :: LF-057 [speaker-fulla]
-It was only when I started to illustrate Slovak Folk Tales that I had the insight that illustration is just as valuable, just as artistic as any other work I was doing, and could be the equal of an oil painting… And these were the illustrations that later also influenced other artists.
+It was only when I started to illustrate Slovak Folk Tales that I had the insight that illustration is just as valuable, just as artistic as any other work I was doing, and could be the equal of an oil painting... And these were the illustrations that later also influenced other artists.
 
 <%
 story.showDelayed("LF-VID-053");
@@ -1895,7 +1895,7 @@ story.showDelayed("EF-IMG-023");
 [[And you, Mr Fulla? Did you ever draw nudes?->LF-058]]
 
 :: EF-054 [speaker-filla]
-Gigantic figures with powerful desires. Not only young ones, but also old and ugly ones… These “modern Venuses” also inspired me to create several sculptures.
+Gigantic figures with powerful desires. Not only young ones, but also old and ugly ones... These “modern Venuses” also inspired me to create several sculptures.
 
 <%
 story.showDelayed("EF-IMG-024");
@@ -1998,7 +1998,7 @@ story.showDelayed("LF-061");
 %>
 
 :: LF-061 [speaker-fulla]
-But you see… I instead took a post at the newly created University of Fine Arts in Bratislava, where somehow they also assigned me to the department of monumental painting.
+But you see... I instead took a post at the newly created University of Fine Arts in Bratislava, where somehow they also assigned me to the department of monumental painting.
 
 [[What was it like?->EF-055B]]
 [[What did you paint during this period?->EF-056]]
@@ -2017,7 +2017,7 @@ As the first university-level art school in Slovakia, this institution was somet
 [[What did you paint during this period?->EF-056]]
 
 :: EF-056 [speaker-filla]
-At that time, I returned to my series “Songs”, which was itself influenced by Slovak folklore… and also the legend of the heroic bandit Jánošík.
+At that time, I returned to my series “Songs”, which was itself influenced by Slovak folklore... and also the legend of the heroic bandit Jánošík.
 
 <%
 story.showDelayed("EF-IMG-025");
@@ -2027,10 +2027,10 @@ story.showDelayed("EF-IMG-025");
 
 <figure>
     <a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Hej_Chlap.jpg">
-        <img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Hej_Chlap.jpg" alt="Emil Filla - What a Man He Must Have Been…, 1948" />
+        <img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Hej_Chlap.jpg" alt="Emil Filla - What a Man He Must Have Been..., 1948" />
     </a>
     <figcaption>
-        Emil Filla – What a Man He Must Have Been…, 1948, Zoya Gallery, Bratislava
+        Emil Filla – What a Man He Must Have Been..., 1948, Zoya Gallery, Bratislava
     </figcaption>
 </figure>
 
@@ -2236,19 +2236,19 @@ story.showDelayed("EF-061");
 %>
 
 :: EF-061 [speaker-filla]
-From the chateau, I made expeditions out into the countryside…. Inspired by Chinese ink-painting and my own return to the great Dutch landscape artists.
+From the chateau, I made expeditions out into the countryside.... Inspired by Chinese ink-painting and my own return to the great Dutch landscape artists.
 
 [[The doctrine of Socialist Realism didn’t affect you?->EF-062]]
 
 :: LF-068A [speaker-fulla]
-Ugh, that was a time… How to create art when they’re dictating it from above? And especially when these comrades had no understanding of good taste or the importance of art?
+Ugh, that was a time... How to create art when they’re dictating it from above? And especially when these comrades had no understanding of good taste or the importance of art?
 
 <%
 story.showDelayed("EF-062");
 %>
 
 :: EF-062 [speaker-filla]
-Socialist Realism was entirely an ideological construct. Whoever didn’t adapt to its demands wasn’t allowed to do creative work… and I wasn’t really one to adapt myself. So I received an invitation to a “comradely discussion”. 
+Socialist Realism was entirely an ideological construct. Whoever didn’t adapt to its demands wasn’t allowed to do creative work... and I wasn’t really one to adapt myself. So I received an invitation to a “comradely discussion”. 
 
 <%
 story.showDelayed("LF-068B");
@@ -2314,7 +2314,7 @@ story.showDelayed("LF-070");
 %>
 
 :: LF-070 [speaker-fulla]
-I found my escape in the world of fairy-tales, folk art, peasant creativity…. A world full of terrors, where injustice is rife, yet in the end good does win out over evil. 
+I found my escape in the world of fairy-tales, folk art, peasant creativity.... A world full of terrors, where injustice is rife, yet in the end good does win out over evil. 
 
 <%
 story.showDelayed("LF-071");
@@ -2346,7 +2346,7 @@ story.showDelayed("LF-IMG-037");
 [[How did this happen?->LF-073]]
 
 :: LF-073 [speaker-fulla]
-Here’s the text, they told me… and all at once you wonder how a boy the size of a pea can eat noodles with sheep-cheese. I grew up in sheep-country, and so I recalled what my father said when telling the story: “Listen, my boy! They were noodles, but they could fit only three into the pot!”
+Here’s the text, they told me... and all at once you wonder how a boy the size of a pea can eat noodles with sheep-cheese. I grew up in sheep-country, and so I recalled what my father said when telling the story: “Listen, my boy! They were noodles, but they could fit only three into the pot!”
 
 <%
 story.showDelayed("LF-IMG-038");
@@ -2393,10 +2393,10 @@ story.showDelayed("EF-IMG-030");
 :: EF-IMG-031 [speaker-filla]
 <figure>
     <a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_hajaj.jpg">
-        <img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_hajaj.jpg" alt="Emil Filla - Folk Song (Hayay, belay…), 1948" />
+        <img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_hajaj.jpg" alt="Emil Filla - Folk Song (Hayay, belay...), 1948" />
     </a>
     <figcaption>
-        Emil Filla – Folk Song (Hayay, belay…), 1948, West Bohemian Gallery, Plzeň 
+        Emil Filla – Folk Song (Hayay, belay...), 1948, West Bohemian Gallery, Plzeň 
     </figcaption>
 </figure>
 
@@ -2405,7 +2405,7 @@ story.showDelayed("EF-065");
 %>
 
 :: EF-065 [speaker-filla]
-“Hayay, belay, o son of mine, be nothing like your father…” Do you recognise this song?
+“Hayay, belay, o son of mine, be nothing like your father...” Do you recognise this song?
 
 [[A little. What is it?->EF-066]]
 
@@ -2437,14 +2437,14 @@ story.showDelayed("EF-IMG-032");
 [[Did you have any other creative activities?->EF-068B]]
 
 :: EF-068 [speaker-filla]
-Of course it was… because the time had come that the monsters I’d known in Buchenwald began to come back to the forefront… Once more, I was calling for a struggle for freedom. 
+Of course it was... because the time had come that the monsters I’d known in Buchenwald began to come back to the forefront... Once more, I was calling for a struggle for freedom. 
 
 <%
 story.showDelayed("EF-068B");
 %>
 
 :: EF-068B [speaker-filla]
-Of course, I was writing a lot. I tried to observe the intersection of art and life in a variety of different cultures and historical epochs. Also, I remembered the war years. I was able to publish several books and essay collections (Questions and Tasks, The Problem of the Renaissance, Small Sculptures, Rembrandt, On Freedom, Dog Songs in Buchenwald, On Fine Art, The Work of the Eye…)
+Of course, I was writing a lot. I tried to observe the intersection of art and life in a variety of different cultures and historical epochs. Also, I remembered the war years. I was able to publish several books and essay collections (Questions and Tasks, The Problem of the Renaissance, Small Sculptures, Rembrandt, On Freedom, Dog Songs in Buchenwald, On Fine Art, The Work of the Eye...)
 <%
 story.showDelayed("EF-069");
 %>
@@ -2496,7 +2496,7 @@ Emil’s death brought to an end the period of parallels in our lives. Because o
 [[How did you live after this point, Mr Fulla?->LF-076]]
 
 :: EF-071 [speaker-filla]
-Hana donated part of my oeuvre to the state… my later body of work is owned now by the Benedikt Rejt Gallery in Louny. In the Peruc chateau, there is now a memorial room.
+Hana donated part of my oeuvre to the state... my later body of work is owned now by the Benedikt Rejt Gallery in Louny. In the Peruc chateau, there is now a memorial room.
 
 [[How did you live after this point, Mr Fulla?->LF-076]]
 [[To wrap this up, do you have some final message?->EF-073]]
