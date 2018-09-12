@@ -166,7 +166,7 @@ story.showDelayed("LF-006");
 %>
 
 :: LF-006 [speaker-fulla]
-All I can say with certainty is that even though we never met in person, I knew Emil’s work... we shared the same interest in modern art... When I saw one of Emil’s paintings on display, where he sliced through realism like a saw through dry wood, the expressions on our faces quenched the smiles of the incorrigible reactionaries. 
+All I can say with certainty is that even though we never met in person, I knew Emil’s work... we shared the same interest in modern art... When I saw one of Emil’s paintings on display, where he sliced through realism like a saw through dry wood, it was joyful seeing how the faces of conservative visitors turned sour.
 
 [[Do you remember any important moments during your studies?->EF-010]]
 [[What were your student years like?->EF-007]]
@@ -366,7 +366,7 @@ story.showDelayed("EF-013");
 %>
 
 :: EF-013 [speaker-filla]
-When I was in Paris in 1910 and saw the paintings of Picasso and Braque... this is when I encountered Cubism. Second, when I wanted to move there to study the work of French Cubism in greater depth...
+When I was in Paris in 1910 and saw the paintings of Picasso and Braque... this is when I encountered Cubism. I really wanted to move there to study the work of French Cubism in greater depth...
 
 <%
 story.showDelayed("EF-IMG-006");
