@@ -6,8 +6,8 @@
     "fillafulla-share-long": "Enjoyed chatting with Filla and Fulla?<br>Share it with friends via email or social media",
     "fillafulla-share-short": "Share with friends",
     "fillafulla-footer-text": "The exhibition <i>Filla — Fulla | Fate of the Artist</i> is part of the joint project with the Moravian Gallery in Brno, <i>Made in Czechoslovakia</i>, dedicated to the centennial anniversary of the founding of Czechoslovakia.",
-    "fillafulla-footer-link-about": "About the application",
-	"fillafulla-footer-link-exhibition": "About the exhibition",
-	"fillafulla-footer-link-webumenia": "Artworks on Web umenia",
-	"fillafulla-footer-link-labsng": "Made by lab.SNG"
+    "fillafulla-footer-link-about": "<a href='/about/en'>About this project</a>",
+	"fillafulla-footer-link-exhibition": "<a href='https://www.sng.sk/en/exhibitions/1502_filla-fulla-the-artists-fate' target='_blank'>About the exhibition</a>",
+	"fillafulla-footer-link-webumenia": "<a href='https://www.webumenia.sk/en/kolekcia/155' target='_blank'>Artworks on Web umenia</a>",
+	"fillafulla-footer-link-labsng": "<a href='http://lab.sng.sk/' target='_blank'>Made by lab.SNG</a>"
 }

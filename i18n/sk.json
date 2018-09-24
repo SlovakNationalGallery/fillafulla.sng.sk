@@ -6,8 +6,8 @@
     "fillafulla-share-long": "Páči sa vám chat s Fillom a Fullom?<br>Podeľte sa oň s vašimi priateľmi a&nbsp;zdieľajte túto stránku na sociálnych sieťach alebo e-mailom.",
     "fillafulla-share-short": "Zdieľať s priateľmi",
     "fillafulla-footer-text": "Výstava <i>Filla — Fulla | Osud umělce — Osud umelca</i> je súčasťou spoločného projektu s Moravskou galériou v Brne <i>Made in Czechoslovakia</i>, ktorý je&nbsp;venovaný stému výročiu založenia Československa.",
-	"fillafulla-footer-link-about": "O aplikácii",
-	"fillafulla-footer-link-exhibition": "O výstave",
-	"fillafulla-footer-link-webumenia": "Web umenia",
-	"fillafulla-footer-link-labsng": "Vytvoril lab.SNG"
+	"fillafulla-footer-link-about": "<a href='/about'>O aplikácii</a>",
+	"fillafulla-footer-link-exhibition": "<a href='https://www.sng.sk/sk/vystavy/1502_filla-fulla-osud-umelce-osud-umelca' target='_blank'>O výstave</a>",
+	"fillafulla-footer-link-webumenia": "<a href='https://www.webumenia.sk/kolekcia/155' target='_blank'>Web umenia</a>",
+	"fillafulla-footer-link-labsng": "<a href='http://lab.sng.sk/' target='_blank'>Vytvoril lab.SNG</a>"
 }
