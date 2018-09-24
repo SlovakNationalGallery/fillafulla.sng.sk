@@ -307,13 +307,13 @@ nav .logo-sng {
   text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
 }
 
-.footer-links a {
+.links-underlined a {
   margin-right: 10px;
   border-bottom: 2px solid rgba(65,117,5, 0.3);
   margin-bottom: 10px;
 }
 
-.footer-links a:hover {
+.links-underlined a:hover {
   text-decoration: none;
   border-bottom: 2px solid rgba(65,117,5, 1.0);
 }
@@ -373,13 +373,6 @@ ABOUT
   .about {
     padding: 30px 50px;
   }
-}
-
-.about a {
-  text-decoration: underline;
-}
-.about a:hover {
-  text-decoration: none;
 }
 
 .about h3 {
