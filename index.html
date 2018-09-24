@@ -3,14 +3,14 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Aplikácia približuje životné príbehy umelcov Emila Fillu a Ľudovíta Fullu formou interaktívneho rozhovoru. Chat dopĺňajú ukážky z tvorby autorov a archívne materiály.">
+    <meta name="description" data-i18n="[content]fillafulla-description" content="Aplikácia približuje životné príbehy umelcov Emila Fillu a Ľudovíta Fullu formou interaktívneho rozhovoru. Chat dopĺňajú ukážky z tvorby autorov a archívne materiály.">
     <meta name="author" content="lab.SNG">
 
 
-    <meta property="og:title" content="Chatuj s Emilom Fillom & Ľudovítom Fullom" />
-    <meta property="og:description" content="Aplikácia približuje životné príbehy umelcov Emila Fillu a Ľudovíta Fullu formou interaktívneho rozhovoru. Chat dopĺňajú ukážky z tvorby autorov a archívne materiály." />
+    <meta property="og:title" data-i18n="[content]fillafulla-title" content="Chatuj s Emilom Fillom & Ľudovítom Fullom" />
+    <meta property="og:description" data-i18n="[content]fillafulla-description" content="Aplikácia približuje životné príbehy umelcov Emila Fillu a Ľudovíta Fullu formou interaktívneho rozhovoru. Chat dopĺňajú ukážky z tvorby autorov a archívne materiály." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://fillafulla.sng.sk/" />
+    <meta property="og:url" data-i18n="[content]fillafulla-url" content="https://fillafulla.sng.sk/" />
     <meta property="og:image" content="https://fillafulla.sng.sk/img/og-image.jpg?v=1" />
     <meta property="og:site_name" content="Filla Fulla Chat" />
 
@@ -80,7 +80,7 @@
       </header>
     </div>
 
-    <div class="cover-container w-100 h-100">
+    <div title="test" data-i18n="[title]fillafulla-description" class="cover-container w-100 h-100">
 
       <main role="main" class="inner cover p-2 p-md-3 mx-auto">
         <h2 class="cover-heading text-shadow">
@@ -184,7 +184,6 @@
       }
 
       var urlParams = new URLSearchParams(window.location.search);
-      console.log("urlParams", urlParams);
       var langValue = urlParams.get('lang');
       if (langValue === 'en') {
         switch_locale('en');

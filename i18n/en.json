@@ -1,8 +1,11 @@
 {
+    "fillafulla-url": "https://fillafulla.sng.sk/?lang=en",
+    "fillafulla-title": "Chat with Emil Filla & Ľudovít Fulla",
     "fillafulla-cta": "<a href='/chat/en'>Start</a>",
     "fillafulla-h2-start": "Chat with Emil Filla",
     "fillafulla-h2-end": "Ľudovít Fulla",
-    "fillafulla-lead": "Take part in an interactive conversation and explore life stories and key artworks of the iconic Czech and Slovak artists Emil Filla and Ľudovít Fulla. Throughout the chat, both artists will answer questions and share artworks as well as archival material.<br>What will <i>you</i> talk about?",
+    "fillafulla-description": "Take part in an interactive conversation and explore life stories and key artworks of the iconic Czech and Slovak artists Emil Filla and Ľudovít Fulla. Throughout the chat, both artists will answer questions and share artworks as well as archival material.",
+    "fillafulla-lead": "Take part in an interactive conversation and explore life stories and key artworks of the iconic Czech and Slovak artists Emil Filla and Ľudovít Fulla. Throughout the chat, both artists will answer questions and share artworks as well as archival material.<br><br>What will <i>you</i> talk about?",
     "fillafulla-share-long": "Enjoyed chatting with Filla and Fulla?<br>Share it with friends via email or social media",
     "fillafulla-share-short": "Share with friends",
     "fillafulla-footer-text": "The exhibition <i>Filla — Fulla | Fate of the Artist</i> is part of the joint project with the Moravian Gallery in Brno, <i>Made in Czechoslovakia</i>, dedicated to the centennial anniversary of the founding of Czechoslovakia.",
