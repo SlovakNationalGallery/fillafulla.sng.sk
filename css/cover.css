@@ -100,6 +100,7 @@ nav .logo-sng {
   list-style: none;
   float: right;
   font-size: 0.85rem;
+  margin: initial;
 }
 @media (min-width: 576px) {
   .language-switch {
@@ -390,7 +391,7 @@ ABOUT
 }
 
 .about-head {
-  margin: 100px auto 30px;
+  margin: 30px auto 30px;
 }
 
 .about-head h2 {
