@@ -39,8 +39,8 @@ story.showDelayed("LF-IMG-000");
 
 :: LF-IMG-000 [speaker-fulla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/SNGAVU--22D6-2--0_1--2018_03_13--L22018_03_16--LP_WEB.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/SNGAVU--22D6-2--0_1--2018_03_13--L22018_03_16--LP_WEB.jpg" alt="Jaromír Funke: Ľudovít Fulla, 1930" />
+	<a href="https://fillafulla.sng.sk/img/twine/SNGAVU--22D6-2--0_1--2018_03_13--L22018_03_16--LP_WEB.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/SNGAVU--22D6-2--0_1--2018_03_13--L22018_03_16--LP_WEB.jpg" alt="Jaromír Funke: Ľudovít Fulla, 1930" />
 	</a>
 	<figcaption>
 		Jaromír Funke: Ľudovít Fulla, 1930, Slovenská národná galéria
@@ -148,8 +148,8 @@ story.showDelayed("LF-IMG-001");
 
 :: LF-IMG-001 [speaker-fulla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/SNGAVU--22A3--0_1--2018_03_13--LP_WEB.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/SNGAVU--22A3--0_1--2018_03_13--LP_WEB.jpg" alt="Vysvedčenie Ľudovíta Fullu na Umelecko-priemyslovej škole v Prahe" />
+	<a href="https://fillafulla.sng.sk/img/twine/SNGAVU--22A3--0_1--2018_03_13--LP_WEB.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/SNGAVU--22A3--0_1--2018_03_13--LP_WEB.jpg" alt="Vysvedčenie Ľudovíta Fullu na Umelecko-priemyslovej škole v Prahe" />
 	</a>
 	<figcaption>
 		Vysvedčenie Ľudovíta Fullu z Umelecko-priemyselnej školy v Prahe, Archív výtvarného umenia SNG
@@ -181,8 +181,8 @@ story.showDelayed("EF-IMG-003");
 
 :: EF-IMG-003 [speaker-filla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Galerie_Louny_DD13.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Galerie_Louny_DD13.jpg" alt="Emil Filla (vľavo) a Karel Kučera, 1904" />
+	<a href="https://fillafulla.sng.sk/img/twine/Galerie_Louny_DD13.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Galerie_Louny_DD13.jpg" alt="Emil Filla (vľavo) a Karel Kučera, 1904" />
 	</a>
 	<figcaption>
 		Emil Filla (vľavo) a Karel Kučera, 1904 (druhý rok na Akadémii), Galerie Benedikta Rejta, Louny
@@ -420,8 +420,8 @@ story.showDelayed("EF-IMG-007");
 
 :: EF-IMG-007 [speaker-filla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Galerie_Louny_DD22.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Galerie_Louny_DD22.jpg" alt="Emil Filla s manželkou Hanou a priateľmi v Holandsku, 1918" />
+	<a href="https://fillafulla.sng.sk/img/twine/Galerie_Louny_DD22.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Galerie_Louny_DD22.jpg" alt="Emil Filla s manželkou Hanou a priateľmi v Holandsku, 1918" />
 	</a>
 	<figcaption>
 		Emil Filla s manželkou Hanou a priateľmi v Holandsku, 1918, Galerie Benedikta Rejta, Louny
@@ -461,8 +461,8 @@ story.showDelayed("EF-IMG-008");
 
 :: EF-IMG-008 [speaker-filla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Holandsky_zapisnik_detail.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Holandsky_zapisnik_detail.jpg" alt="Strana z holandského zápisníka Emila Fillu, 1917" />
+	<a href="https://fillafulla.sng.sk/img/twine/Filla_Holandsky_zapisnik_detail.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Filla_Holandsky_zapisnik_detail.jpg" alt="Strana z holandského zápisníka Emila Fillu, 1917" />
 	</a>
 	<figcaption>
 		Detail z holandského zápisníka Emila Fillu, 1917
@@ -488,8 +488,8 @@ story.showDelayed("EF-IMG-009");
 
 :: EF-IMG-009 [speaker-filla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Maffie_hrad_wiki.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Maffie_hrad_wiki.jpg" alt="Členovia Maffie v roku 1918" />
+	<a href="https://fillafulla.sng.sk/img/twine/Maffie_hrad_wiki.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Maffie_hrad_wiki.jpg" alt="Členovia Maffie v roku 1918" />
 	</a>
 	<figcaption>
 		<a href="https://cs.wikipedia.org/wiki/Maffie" target="_blank">Členovia Maffie v roku 1918 pri odovzdávaní revolučných medailí na Pražskom hrade, zdroj: wikipedia</a>
@@ -567,8 +567,8 @@ story.showDelayed("EF-IMG-011");
 
 :: EF-IMG-011 [speaker-filla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Namornik_K-2769.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Namornik_K-2769.jpg" alt="Emil Filla - Zátiší (Námořník, Rotterdam), 1916" />
+	<a href="https://fillafulla.sng.sk/img/twine/Filla_Namornik_K-2769.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Filla_Namornik_K-2769.jpg" alt="Emil Filla - Zátiší (Námořník, Rotterdam), 1916" />
 	</a>
 	<figcaption>
 		Emil Filla - Zátiší (Námořník, Rotterdam), 1916, Galerie hlavního města Prahy
@@ -758,8 +758,8 @@ story.showDelayed("LF-IMG-008B");
 
 :: LF-IMG-008B [speaker-fulla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Fulla_Madona_Linea.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Fulla_Madona_Linea.jpg" alt="Ľudovít Fulla - Madona, 1931" />
+	<a href="https://fillafulla.sng.sk/img/twine/Fulla_Madona_Linea.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Fulla_Madona_Linea.jpg" alt="Ľudovít Fulla - Madona, 1931" />
 	</a>
 	<figcaption>
 		Ľudovít Fulla - Madona, 1931, Zbierka Linea, Bratislava
@@ -819,8 +819,8 @@ story.showDelayed("EF-IMG-014");
 
 :: EF-IMG-014 [speaker-filla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Nacismus_2.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Nacismus_2.jpg" alt="Emil Filla - Ruce s dýkou (Nacismus II.), 1937" />
+	<a href="https://fillafulla.sng.sk/img/twine/Filla_Nacismus_2.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Filla_Nacismus_2.jpg" alt="Emil Filla - Ruce s dýkou (Nacismus II.), 1937" />
 	</a>
 	<figcaption>
 		Emil Filla - Ruce s dýkou (Nacismus II.), 1937, Moravská galerie v Brně
@@ -865,8 +865,8 @@ Nebyl jsem už žádný mladík a věděl jsem, že musíme něco udělat, že m
 
 :: EF-IMG-015 [speaker-filla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Theseus_byk.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Theseus_byk.jpg" alt="Emil Filla - Theseus nesoucí býka, 1938" />
+	<a href="https://fillafulla.sng.sk/img/twine/Filla_Theseus_byk.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Filla_Theseus_byk.jpg" alt="Emil Filla - Theseus nesoucí býka, 1938" />
 	</a>
 	<figcaption>
 		Emil Filla - Theseus nesoucí býka, 1938, Západočeská galerie v Plzni
@@ -915,8 +915,8 @@ story.showDelayed("EF-IMG-017");
 :: EF-IMG-017 [speaker-filla]
 
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Svatebni_kosile.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Svatebni_kosile.jpg" alt="Emil Filla - Svatební košile, 1939" />
+	<a href="https://fillafulla.sng.sk/img/twine/Filla_Svatebni_kosile.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Filla_Svatebni_kosile.jpg" alt="Emil Filla - Svatební košile, 1939" />
 	</a>
 	<figcaption>
 		Emil Filla - Svatební košile, 1939, Galerie hlavního města Prahy
@@ -1017,8 +1017,8 @@ story.showDelayed("EF-IMG-ATL-002");
 
 :: EF-IMG-ATL-002 [speaker-filla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Galerie_Louny_DD15.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Galerie_Louny_DD15.jpg" alt="Emil Filla s manželkou v ateliéri na Ořechovce, 1927" />
+	<a href="https://fillafulla.sng.sk/img/twine/Galerie_Louny_DD15.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Galerie_Louny_DD15.jpg" alt="Emil Filla s manželkou v ateliéri na Ořechovce, 1927" />
 	</a>
 		<figcaption>
 			Emil Filla s manželkou Hanou v ateliéri na Ořechovce, 1927, Galerie Benedikta Rejta, Louny
@@ -1039,8 +1039,8 @@ story.showDelayed("LF-IMG-011");
 :: LF-IMG-011 [speaker-fulla]
 
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/SNGAVU--26D13--0_1--2018_03_13--LP_WEB.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/SNGAVU--26D13--0_1--2018_03_13--LP_WEB.jpg" alt="Ľudovít Fulla a Mikuláš Galanda v spoločnom ateliéri na Trnavskej ulici v Bratislave" />
+	<a href="https://fillafulla.sng.sk/img/twine/SNGAVU--26D13--0_1--2018_03_13--LP_WEB.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/SNGAVU--26D13--0_1--2018_03_13--LP_WEB.jpg" alt="Ľudovít Fulla a Mikuláš Galanda v spoločnom ateliéri na Trnavskej ulici v Bratislave" />
 	</a>
 		<figcaption>
 			Ľudovít Fulla a Mikuláš Galanda v spoločnom ateliéri na Trnavskej ulici v Bratislave, začiatok 30. rokov 20. storočia, Archív výtvarného umenia SNG
@@ -1200,8 +1200,8 @@ story.showDelayed("EF-IMG-035");
 
 :: LF-SLFG-IMG-01 [speaker-fulla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/SNGAVU--22B530-1--1_2--2018_03_14--LP_WEB.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/SNGAVU--22B530-1--1_2--2018_03_14--LP_WEB.jpg" alt="Súkromné listy Fullu a Galandu, č. 1." />
+	<a href="https://fillafulla.sng.sk/img/twine/SNGAVU--22B530-1--1_2--2018_03_14--LP_WEB.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/SNGAVU--22B530-1--1_2--2018_03_14--LP_WEB.jpg" alt="Súkromné listy Fullu a Galandu, č. 1." />
 	</a>
 	<figcaption>
 		<a href="https://www.webumenia.sk/clanok/sukromne-listy-fullu-a-galandu" target="_blank">Súkromné listy Fullu a Galandu, č. 1., Archív výtvarného umenia SNG</a>
@@ -1214,8 +1214,8 @@ story.showDelayed("LF-SLFG-IMG-02");
 
 :: LF-SLFG-IMG-02 [speaker-fulla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/SNGAVU--22B530-1--2_2--2018_03_14--LP_WEB.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/SNGAVU--22B530-1--2_2--2018_03_14--LP_WEB.jpg" alt="Súkromné listy Fullu a Galandu, č. 1." />
+	<a href="https://fillafulla.sng.sk/img/twine/SNGAVU--22B530-1--2_2--2018_03_14--LP_WEB.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/SNGAVU--22B530-1--2_2--2018_03_14--LP_WEB.jpg" alt="Súkromné listy Fullu a Galandu, č. 1." />
 	</a>
 	<figcaption>
 		<a href="https://www.webumenia.sk/clanok/sukromne-listy-fullu-a-galandu" target="_blank">Súkromné listy Fullu a Galandu, č. 1., Archív výtvarného umenia SNG</a>
@@ -1334,8 +1334,8 @@ story.showDelayed("LF-IMG-017");
 
 :: LF-IMG-017 [speaker-fulla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/SNGAVU--diplom--04_1--2018_03_16--LP_WEB.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/SNGAVU--diplom--04_1--2018_03_16--LP_WEB.jpg" alt="Diplom zo Svetovej výstavy v Paríži, 1937" />
+	<a href="https://fillafulla.sng.sk/img/twine/SNGAVU--diplom--04_1--2018_03_16--LP_WEB.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/SNGAVU--diplom--04_1--2018_03_16--LP_WEB.jpg" alt="Diplom zo Svetovej výstavy v Paríži, 1937" />
 	</a>
 	<figcaption>
 		Diplom zo Svetovej výstavy v Paríži, 1937, Archív výtvarného umenia SNG
@@ -1395,8 +1395,8 @@ Našťastie dielam sa nič nestalo. Obraz Pieseň a práca visel nepoškodený n
 
 :: EF-IMG-018 [speaker-filla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Buchenwald.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Buchenwald.jpg" alt="Emil Filla - Buchenwald, 1947" />
+	<a href="https://fillafulla.sng.sk/img/twine/Filla_Buchenwald.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Filla_Buchenwald.jpg" alt="Emil Filla - Buchenwald, 1947" />
 	</a>
 		<figcaption>
 			Emil Filla - Buchenwald, 1947, Západočeská galerie v Plzni
@@ -1409,8 +1409,8 @@ story.showDelayed("EF-036");
 
 :: EF-IMG-018C [speaker-filla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Buchenwald.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Buchenwald.jpg" alt="Emil Filla - Buchenwald, 1947" />
+	<a href="https://fillafulla.sng.sk/img/twine/Filla_Buchenwald.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Filla_Buchenwald.jpg" alt="Emil Filla - Buchenwald, 1947" />
 	</a>
 		<figcaption>
 			Emil Filla - Buchenwald, 1947, Západočeská galerie v Plzni
@@ -1615,8 +1615,8 @@ Myslím, že práve tieto diela mi nakoniec pomohli prekonať toto temné obdobi
 
 :: EF-IMG-019 [speaker-filla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Galerie_Louny_DD17.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Galerie_Louny_DD17.jpg" alt="Emil Filla na repatriačnej ceste z Buchenwaldu, 1945" />
+	<a href="https://fillafulla.sng.sk/img/twine/Galerie_Louny_DD17.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Galerie_Louny_DD17.jpg" alt="Emil Filla na repatriačnej ceste z Buchenwaldu, 1945" />
 	</a>
 		<figcaption>
 			Emil Filla na repatriačnej ceste z Buchenwaldu, 1945, Galerie Benedikta Rejta, Louny
@@ -1636,8 +1636,8 @@ story.showDelayed("EF-IMG-020");
 
 :: EF-IMG-020 [speaker-filla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Torzo_nadeje.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Torzo_nadeje.jpg" alt="Emil Filla - Torzo naděje, k zbierke Františka Halase, 1945" />
+	<a href="https://fillafulla.sng.sk/img/twine/Filla_Torzo_nadeje.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Filla_Torzo_nadeje.jpg" alt="Emil Filla - Torzo naděje, k zbierke Františka Halase, 1945" />
 	</a>
 	<figcaption>
 		Emil Filla - Torzo naděje, k zbierke Františka Halasa, 1945, Galerie hlavního města Prahy
@@ -1669,8 +1669,8 @@ story.showDelayed("EF-IMG-021");
 
 :: EF-IMG-021 [speaker-filla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Galerie_Louny_DD12.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Galerie_Louny_DD12.jpg" alt="Emil Filla s manželkou Hanou, 1951" />
+	<a href="https://fillafulla.sng.sk/img/twine/Galerie_Louny_DD12.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Galerie_Louny_DD12.jpg" alt="Emil Filla s manželkou Hanou, 1951" />
 	</a>
 	<figcaption>
 		Emil Filla s manželkou Hanou, 1951, Galerie Benedikta Rejta, Louny
@@ -1731,8 +1731,8 @@ story.showDelayed("LF-IMG-023");
 
 :: LF-IMG-023 [speaker-fulla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/SNGAVU--22D52-2--0_1--2018_03_15--LP_WEB.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/SNGAVU--22D52-2--0_1--2018_03_15--LP_WEB.jpg" alt="Klára Juliana na Svetovej výstave v Paríži, 1937" />
+	<a href="https://fillafulla.sng.sk/img/twine/SNGAVU--22D52-2--0_1--2018_03_15--LP_WEB.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/SNGAVU--22D52-2--0_1--2018_03_15--LP_WEB.jpg" alt="Klára Juliana na Svetovej výstave v Paríži, 1937" />
 	</a>
 	<figcaption>
 		Klára Juliana na Svetovej výstave v Paríži, 1937, Archív výtvarného umenia SNG
@@ -1885,8 +1885,8 @@ story.showDelayed("EF-IMG-023");
 
 :: EF-IMG-023 [speaker-filla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Divka_s_kytici.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Divka_s_kytici.jpg" alt="Emil Filla - Dívka s kyticí, 1934" />
+	<a href="https://fillafulla.sng.sk/img/twine/Filla_Divka_s_kytici.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Filla_Divka_s_kytici.jpg" alt="Emil Filla - Dívka s kyticí, 1934" />
 	</a>
 	<figcaption>
 		Emil Filla - Dívka s kyticí, 1934, Súkromná zbierka
@@ -2028,8 +2028,8 @@ story.showDelayed("EF-IMG-025");
 :: EF-IMG-025 [speaker-filla]
 
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Hej_Chlap.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Hej_Chlap.jpg" alt="Emil Filla - Hej musel by to chlap byť…, 1948" />
+	<a href="https://fillafulla.sng.sk/img/twine/Filla_Hej_Chlap.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Filla_Hej_Chlap.jpg" alt="Emil Filla - Hej musel by to chlap byť…, 1948" />
 	</a>
 	<figcaption>
 		Emil Filla - Hej musel by to chlap byť…, 1948, Zoya Gallery, Bratislava
@@ -2075,8 +2075,8 @@ story.showDelayed("EF-IMG-026");
 
 :: EF-IMG-026 [speaker-filla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Baca_Stary.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Baca_Stary.jpg" alt="Emil Filla - Ja som Bača veľmi starý, 1947" />
+	<a href="https://fillafulla.sng.sk/img/twine/Filla_Baca_Stary.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Filla_Baca_Stary.jpg" alt="Emil Filla - Ja som Bača veľmi starý, 1947" />
 	</a>
 	<figcaption>
 		Emil Filla - Ja som bača veľmi starý, 1947, Súkromná zbierka
@@ -2142,8 +2142,8 @@ story.showDelayed("EF-IMG-027");
 
 :: EF-IMG-027 [speaker-filla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_M-2246_001_p1.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_M-2246_001_p1.jpg" alt="Emil Filla - Krajina u Libčevsi, 1952" />
+	<a href="https://fillafulla.sng.sk/img/twine/Filla_M-2246_001_p1.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Filla_M-2246_001_p1.jpg" alt="Emil Filla - Krajina u Libčevsi, 1952" />
 	</a>
 	<figcaption>
 		Emil Filla - Krajina u Libčevsi, 1952, Galerie hlavního města Prahy
@@ -2170,8 +2170,8 @@ story.showDelayed("LF-IMG-033");
 
 :: LF-IMG-033 [speaker-fulla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/SNG--KD_412--0_1--_2018_04_18_--LP_WEB.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/SNG--KD_412--0_1--_2018_04_18_--LP_WEB.jpg" alt="Ľudovít Fulla - Turiec v máji, 1949" />
+	<a href="https://fillafulla.sng.sk/img/twine/SNG--KD_412--0_1--_2018_04_18_--LP_WEB.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/SNG--KD_412--0_1--_2018_04_18_--LP_WEB.jpg" alt="Ľudovít Fulla - Turiec v máji, 1949" />
 	</a>
 	<figcaption>
 		Ľudovít Fulla - Turiec v máji, 1949, SNG - Galéria Ľudovíta Fullu v Ružomberku
@@ -2204,8 +2204,8 @@ story.showDelayed("LF-IMG-034");
 
 :: EF-IMG-028 [speaker-filla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Slavetin.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_Slavetin.jpg" alt="Emil Filla - Od Slavětína, 1951" />
+	<a href="https://fillafulla.sng.sk/img/twine/Filla_Slavetin.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Filla_Slavetin.jpg" alt="Emil Filla - Od Slavětína, 1951" />
 	</a>
 	<figcaption>
 		Emil Filla - Od Slavětína, 1951, Galerie Benedikta Rejta, Louny
@@ -2225,8 +2225,8 @@ story.showDelayed("EF-IMG-029");
 
 :: EF-IMG-029 [speaker-filla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Galerie_Louny_DD25.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Galerie_Louny_DD25.jpg" alt="Emil Filla maľuje Ranskú horu v Českom stredohorí, s manželkou Hanou a boxerkou Evičkou, 1951" />
+	<a href="https://fillafulla.sng.sk/img/twine/Galerie_Louny_DD25.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Galerie_Louny_DD25.jpg" alt="Emil Filla maľuje Ranskú horu v Českom stredohorí, s manželkou Hanou a boxerkou Evičkou, 1951" />
 	</a>
 	<figcaption>
 		Emil Filla maluje Ranskú horu v Českém středohoří, s manželkou Hanou a boxerkou Evičkou, 1951, Galerie Benedikta Rejta, Louny
@@ -2356,8 +2356,8 @@ story.showDelayed("LF-IMG-038");
 
 :: LF-IMG-038 [speaker-fulla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/SNGAVU--22D12-1--0_1--2018_03_13--L22018_03_16--LP_WEB.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/SNGAVU--22D12-1--0_1--2018_03_13--L22018_03_16--LP_WEB.jpg" alt="Ľudovít Fulla pri ilustrovaní Slovenských rozprávok, šesťdesiate roky," />
+	<a href="https://fillafulla.sng.sk/img/twine/SNGAVU--22D12-1--0_1--2018_03_13--L22018_03_16--LP_WEB.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/SNGAVU--22D12-1--0_1--2018_03_13--L22018_03_16--LP_WEB.jpg" alt="Ľudovít Fulla pri ilustrovaní Slovenských rozprávok, šesťdesiate roky," />
 	</a>
 	<figcaption>
 		Ľudovít Fulla pri ilustrovaní Slovenských rozprávok, šesťdesiate.60. roky, Archív výtvarného umenia SNG
@@ -2382,8 +2382,8 @@ story.showDelayed("EF-IMG-030");
 
 :: EF-IMG-030 [speaker-filla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_G-767_001_p1_30404.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_G-767_001_p1_30404.jpg" alt="Emil Filla - Hadí pouta (Ruce spoutané hady), 1945" />
+	<a href="https://fillafulla.sng.sk/img/twine/Filla_G-767_001_p1_30404.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Filla_G-767_001_p1_30404.jpg" alt="Emil Filla - Hadí pouta (Ruce spoutané hady), 1945" />
 	</a>
 	<figcaption>
 		Emil Filla - Hadí pouta (Ruce spoutané hady), 1945, Galerie hlavního města Prahy
@@ -2394,8 +2394,8 @@ story.showDelayed("EF-IMG-030");
 
 :: EF-IMG-031 [speaker-filla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_hajaj.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_hajaj.jpg" alt="Emil Filla - Lidová píseň (Hajaj, belaj…), 1948" />
+	<a href="https://fillafulla.sng.sk/img/twine/Filla_hajaj.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Filla_hajaj.jpg" alt="Emil Filla - Lidová píseň (Hajaj, belaj…), 1948" />
 	</a>
 	<figcaption>
 		Emil Filla - Lidová píseň (Hajaj, belaj…), 1948, Západočeská galerie v Plzni
@@ -2460,8 +2460,8 @@ story.showDelayed("EF-IMG-033");
 
 :: EF-IMG-033 [speaker-filla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Galerie_Louny_DD24.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Galerie_Louny_DD24.jpg" alt="Emil Filla s Manželkou Hanou, Peruc, Josef Sudek, 1952" />
+	<a href="https://fillafulla.sng.sk/img/twine/Galerie_Louny_DD24.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Galerie_Louny_DD24.jpg" alt="Emil Filla s Manželkou Hanou, Peruc, Josef Sudek, 1952" />
 	</a>
 	<figcaption>
 		Emil Filla s manželkou Hanou, Peruc, Josef Sudek, 1952, Galerie Benedikta Rejta, Louny
@@ -2472,8 +2472,8 @@ story.showDelayed("EF-IMG-033");
 
 :: EF-IMG-034 [speaker-filla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_193b.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/Filla_193b.jpg" alt="Oznam o Spolku výtvarných umelcov Mánes o úmrtí Emila Fillu, 1953" />
+	<a href="https://fillafulla.sng.sk/img/twine/Filla_193b.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/Filla_193b.jpg" alt="Oznam o Spolku výtvarných umelcov Mánes o úmrtí Emila Fillu, 1953" />
 	</a>
 	<figcaption>
 		Oznam Spolku výtvarných umelců Mánes o úmrtí Emila Fillu, 1953
@@ -2512,8 +2512,8 @@ story.showDelayed("LF-IMG-039");
 
 :: LF-IMG-039 [speaker-fulla]
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/SNGAVU--22F3-3--0_1--2018_03_13--L22018_03_16--LP_WEB.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/SNGAVU--22F3-3--0_1--2018_03_13--L22018_03_16--LP_WEB.jpg" alt="Galéria Ľudovíta Fullu v Ružomberku, 70. roky 20. storočia" />
+	<a href="https://fillafulla.sng.sk/img/twine/SNGAVU--22F3-3--0_1--2018_03_13--L22018_03_16--LP_WEB.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/SNGAVU--22F3-3--0_1--2018_03_13--L22018_03_16--LP_WEB.jpg" alt="Galéria Ľudovíta Fullu v Ružomberku, 70. roky 20. storočia" />
 	</a>
 	<figcaption>
 		Galéria Ľudovíta Fullu v Ružomberku, 70. roky 20. storočia, Archív výtvarného umenia SNG
@@ -2527,8 +2527,8 @@ story.showDelayed("LF-IMG-039B");
 :: LF-IMG-039B [speaker-fulla]
 
 <figure>
-	<a href="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/SNGAVU--22F3-10--0_1--2018_03_13--L22018_03_16--LP_WEB.jpg">
-		<img src="https://raw.githubusercontent.com/SlovakNationalGallery/fillafulla.sng.sk/master/img/twine/SNGAVU--22F3-10--0_1--2018_03_13--L22018_03_16--LP_WEB.jpg" alt="Obytná časť Galérie Ľudovíta Fullu v Ružomberku, 70. roky 20. storočia" />
+	<a href="https://fillafulla.sng.sk/img/twine/SNGAVU--22F3-10--0_1--2018_03_13--L22018_03_16--LP_WEB.jpg">
+		<img src="https://fillafulla.sng.sk/img/twine/SNGAVU--22F3-10--0_1--2018_03_13--L22018_03_16--LP_WEB.jpg" alt="Obytná časť Galérie Ľudovíta Fullu v Ružomberku, 70. roky 20. storočia" />
 	</a>
 	<figcaption>
 		Obytná časť Galérie Ľudovíta Fullu v Ružomberku, 70. roky 20. storočia, Archív výtvarného umenia SNG
