@@ -72,7 +72,7 @@ html {
 
 /* Passage Avatars */
 
-.chat-passage-wrapper[data-speaker='ty']:after {
+.chat-passage-wrapper[data-speaker='you']:after {
   content: "";
   width: 30px;
   height: 30px;
@@ -96,7 +96,7 @@ html {
 
 /* Speaker Name Colors & Alignment */
 
-.chat-passage-wrapper[data-speaker='ty'] .chat-passage:before {
+.chat-passage-wrapper[data-speaker='you'] .chat-passage:before {
   color: var(--color-you);
 }
 .chat-passage-wrapper[data-speaker='filla'] .chat-passage:before {
@@ -104,6 +104,12 @@ html {
 }
 .chat-passage-wrapper[data-speaker='fulla'] .chat-passage:before {
   color: var(--color-fulla);
+}
+
+/* Speaker Name Content */
+
+html[lang='sk'] .chat-passage[data-speaker='you']:before {
+  content: 'ty';
 }
 
 /* User Response Panel */
